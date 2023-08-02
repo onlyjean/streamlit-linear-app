@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/fb4990b71b7d4321ad61ea9366e8ffd5/artifacts
+end_time: 1690835872689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4990b71b7d4321ad61ea9366e8ffd5
+run_name: zealous-shrike-166
+run_uuid: fb4990b71b7d4321ad61ea9366e8ffd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690835871295
+status: 3
+tags: []
+user_id: cedrix

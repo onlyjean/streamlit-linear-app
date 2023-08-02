@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/ab40566fbd86416d97788c041a4151ae/artifacts
+end_time: 1690981047928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab40566fbd86416d97788c041a4151ae
+run_name: rumbling-loon-455
+run_uuid: ab40566fbd86416d97788c041a4151ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981046406
+status: 4
+tags: []
+user_id: cedrix

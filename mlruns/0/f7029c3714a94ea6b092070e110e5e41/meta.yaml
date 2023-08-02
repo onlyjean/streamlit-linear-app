@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f7029c3714a94ea6b092070e110e5e41/artifacts
+end_time: 1690822650048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7029c3714a94ea6b092070e110e5e41
+run_name: peaceful-panda-732
+run_uuid: f7029c3714a94ea6b092070e110e5e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822648719
+status: 3
+tags: []
+user_id: cedrix

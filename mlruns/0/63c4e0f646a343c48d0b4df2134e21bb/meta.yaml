@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/63c4e0f646a343c48d0b4df2134e21bb/artifacts
+end_time: 1690816170999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c4e0f646a343c48d0b4df2134e21bb
+run_name: aged-chimp-504
+run_uuid: 63c4e0f646a343c48d0b4df2134e21bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816169911
+status: 3
+tags: []
+user_id: cedrix

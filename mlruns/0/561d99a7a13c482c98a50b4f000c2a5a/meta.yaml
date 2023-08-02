@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/561d99a7a13c482c98a50b4f000c2a5a/artifacts
+end_time: 1690822567299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 561d99a7a13c482c98a50b4f000c2a5a
+run_name: monumental-smelt-164
+run_uuid: 561d99a7a13c482c98a50b4f000c2a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822566278
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f1cc79985c0844a7b8f4b8bab846dad3/artifacts
+end_time: 1690310394583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cc79985c0844a7b8f4b8bab846dad3
+run_name: bright-cub-38
+run_uuid: f1cc79985c0844a7b8f4b8bab846dad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310393401
+status: 3
+tags: []
+user_id: cedrix

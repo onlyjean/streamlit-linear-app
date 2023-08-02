@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0fff0c40fc8e4023a2d3fe3555b9db1f/artifacts
+end_time: 1690314774690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fff0c40fc8e4023a2d3fe3555b9db1f
+run_name: adaptable-stork-677
+run_uuid: 0fff0c40fc8e4023a2d3fe3555b9db1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314773715
+status: 3
+tags: []
+user_id: cedrix

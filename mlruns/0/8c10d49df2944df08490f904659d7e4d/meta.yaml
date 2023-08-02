@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8c10d49df2944df08490f904659d7e4d/artifacts
+end_time: 1690982122894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c10d49df2944df08490f904659d7e4d
+run_name: serious-chimp-932
+run_uuid: 8c10d49df2944df08490f904659d7e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982121894
+status: 3
+tags: []
+user_id: cedrix

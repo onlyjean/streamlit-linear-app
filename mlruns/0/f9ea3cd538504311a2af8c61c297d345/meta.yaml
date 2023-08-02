@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f9ea3cd538504311a2af8c61c297d345/artifacts
+end_time: 1690926235556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9ea3cd538504311a2af8c61c297d345
+run_name: caring-dog-36
+run_uuid: f9ea3cd538504311a2af8c61c297d345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690926233868
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c7dfda0107004590a2d335839cd0b637/artifacts
+end_time: 1690824491949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7dfda0107004590a2d335839cd0b637
+run_name: indecisive-mole-788
+run_uuid: c7dfda0107004590a2d335839cd0b637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824490984
+status: 3
+tags: []
+user_id: cedrix

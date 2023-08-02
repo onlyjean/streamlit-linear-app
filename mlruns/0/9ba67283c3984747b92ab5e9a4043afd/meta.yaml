@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9ba67283c3984747b92ab5e9a4043afd/artifacts
+end_time: 1690822685393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba67283c3984747b92ab5e9a4043afd
+run_name: enthused-yak-692
+run_uuid: 9ba67283c3984747b92ab5e9a4043afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822684451
+status: 3
+tags: []
+user_id: cedrix

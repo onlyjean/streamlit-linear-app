@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b23f7a8551d74dc3b3207ae701168839/artifacts
+end_time: 1690293513093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b23f7a8551d74dc3b3207ae701168839
+run_name: orderly-cod-526
+run_uuid: b23f7a8551d74dc3b3207ae701168839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690293511374
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8240662c8fff4a12acf55d51ed1ee3b0/artifacts
+end_time: 1690389966374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8240662c8fff4a12acf55d51ed1ee3b0
+run_name: rogue-owl-630
+run_uuid: 8240662c8fff4a12acf55d51ed1ee3b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389965509
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/1dca1a04459d44619366e259735941fd/artifacts
+end_time: 1690816206344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dca1a04459d44619366e259735941fd
+run_name: puzzled-snake-689
+run_uuid: 1dca1a04459d44619366e259735941fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816205895
+status: 3
+tags: []
+user_id: cedrix

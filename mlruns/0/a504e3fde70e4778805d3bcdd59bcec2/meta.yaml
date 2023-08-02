@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a504e3fde70e4778805d3bcdd59bcec2/artifacts
+end_time: 1690389962707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a504e3fde70e4778805d3bcdd59bcec2
+run_name: welcoming-kite-754
+run_uuid: a504e3fde70e4778805d3bcdd59bcec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389961566
+status: 3
+tags: []
+user_id: cedrix

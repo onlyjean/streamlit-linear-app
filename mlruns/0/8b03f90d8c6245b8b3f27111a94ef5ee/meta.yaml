@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8b03f90d8c6245b8b3f27111a94ef5ee/artifacts
+end_time: 1690816180179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b03f90d8c6245b8b3f27111a94ef5ee
+run_name: adorable-sponge-429
+run_uuid: 8b03f90d8c6245b8b3f27111a94ef5ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816180169
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/78d7108a7d4c48e1a7519d3353d0fe8d/artifacts
+end_time: 1690816190241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78d7108a7d4c48e1a7519d3353d0fe8d
+run_name: unruly-shrimp-45
+run_uuid: 78d7108a7d4c48e1a7519d3353d0fe8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816190231
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2b439aeda72044419f49d6850398fa3d/artifacts
+end_time: 1690948395735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b439aeda72044419f49d6850398fa3d
+run_name: amusing-finch-296
+run_uuid: 2b439aeda72044419f49d6850398fa3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690948395225
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7e99db34eb114bf5a034d4b2dfdfeeaa/artifacts
+end_time: 1690823555600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e99db34eb114bf5a034d4b2dfdfeeaa
+run_name: abrasive-fowl-301
+run_uuid: 7e99db34eb114bf5a034d4b2dfdfeeaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823554642
+status: 3
+tags: []
+user_id: cedrix

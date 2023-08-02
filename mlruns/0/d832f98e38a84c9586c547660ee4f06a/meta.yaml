@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d832f98e38a84c9586c547660ee4f06a/artifacts
+end_time: 1690461393988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d832f98e38a84c9586c547660ee4f06a
+run_name: flawless-ox-710
+run_uuid: d832f98e38a84c9586c547660ee4f06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690461391987
+status: 3
+tags: []
+user_id: cedrix

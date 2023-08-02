@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c97b91f437a84a34982dba931df4cc5f/artifacts
+end_time: 1690921652986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c97b91f437a84a34982dba931df4cc5f
+run_name: learned-wasp-293
+run_uuid: c97b91f437a84a34982dba931df4cc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690921651941
+status: 3
+tags: []
+user_id: cedrix

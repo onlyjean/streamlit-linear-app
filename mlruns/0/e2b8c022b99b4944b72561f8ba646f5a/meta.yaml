@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e2b8c022b99b4944b72561f8ba646f5a/artifacts
+end_time: 1690981914887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b8c022b99b4944b72561f8ba646f5a
+run_name: dazzling-stork-985
+run_uuid: e2b8c022b99b4944b72561f8ba646f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981913309
+status: 3
+tags: []
+user_id: cedrix

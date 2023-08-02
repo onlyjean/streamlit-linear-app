@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e388ef0a6b914751af4897c2e3200120/artifacts
+end_time: 1690926082810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e388ef0a6b914751af4897c2e3200120
+run_name: victorious-hare-356
+run_uuid: e388ef0a6b914751af4897c2e3200120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690926081148
+status: 3
+tags: []
+user_id: cedrix

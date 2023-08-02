@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e48c88e05d4343d4a425c04ea71f1719/artifacts
+end_time: 1690826811390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e48c88e05d4343d4a425c04ea71f1719
+run_name: luxuriant-newt-970
+run_uuid: e48c88e05d4343d4a425c04ea71f1719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826810375
+status: 3
+tags: []
+user_id: cedrix

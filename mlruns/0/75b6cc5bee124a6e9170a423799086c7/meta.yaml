@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/75b6cc5bee124a6e9170a423799086c7/artifacts
+end_time: 1690385585705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75b6cc5bee124a6e9170a423799086c7
+run_name: angry-fowl-774
+run_uuid: 75b6cc5bee124a6e9170a423799086c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385584757
+status: 3
+tags: []
+user_id: cedrix

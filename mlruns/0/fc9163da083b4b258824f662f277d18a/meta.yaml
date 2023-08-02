@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/fc9163da083b4b258824f662f277d18a/artifacts
+end_time: 1690816214979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9163da083b4b258824f662f277d18a
+run_name: monumental-asp-540
+run_uuid: fc9163da083b4b258824f662f277d18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816214967
+status: 3
+tags: []
+user_id: cedrix

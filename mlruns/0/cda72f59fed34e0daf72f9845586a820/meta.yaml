@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cda72f59fed34e0daf72f9845586a820/artifacts
+end_time: 1690980992553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda72f59fed34e0daf72f9845586a820
+run_name: kindly-skunk-912
+run_uuid: cda72f59fed34e0daf72f9845586a820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690980991941
+status: 3
+tags: []
+user_id: cedrix

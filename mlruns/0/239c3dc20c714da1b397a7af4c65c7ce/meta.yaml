@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/239c3dc20c714da1b397a7af4c65c7ce/artifacts
+end_time: 1690310739569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 239c3dc20c714da1b397a7af4c65c7ce
+run_name: spiffy-mouse-240
+run_uuid: 239c3dc20c714da1b397a7af4c65c7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310738635
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6900ebc0af4d461fb32989c13dd1f659/artifacts
+end_time: 1690823070016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6900ebc0af4d461fb32989c13dd1f659
+run_name: chill-perch-337
+run_uuid: 6900ebc0af4d461fb32989c13dd1f659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823068996
+status: 3
+tags: []
+user_id: cedrix

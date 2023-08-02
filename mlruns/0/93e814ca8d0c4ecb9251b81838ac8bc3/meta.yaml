@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/93e814ca8d0c4ecb9251b81838ac8bc3/artifacts
+end_time: 1690386570071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93e814ca8d0c4ecb9251b81838ac8bc3
+run_name: mercurial-squid-471
+run_uuid: 93e814ca8d0c4ecb9251b81838ac8bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386569237
+status: 3
+tags: []
+user_id: cedrix

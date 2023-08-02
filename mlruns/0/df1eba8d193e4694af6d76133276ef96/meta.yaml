@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/df1eba8d193e4694af6d76133276ef96/artifacts
+end_time: 1690979808850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df1eba8d193e4694af6d76133276ef96
+run_name: enchanting-moose-911
+run_uuid: df1eba8d193e4694af6d76133276ef96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690979806834
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cd52e2c88f274ac4abeb2516ebf8ee02/artifacts
+end_time: 1690826203763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd52e2c88f274ac4abeb2516ebf8ee02
+run_name: likeable-dove-71
+run_uuid: cd52e2c88f274ac4abeb2516ebf8ee02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826203748
+status: 4
+tags: []
+user_id: cedrix

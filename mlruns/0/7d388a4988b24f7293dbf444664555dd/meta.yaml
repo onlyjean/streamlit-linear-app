@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7d388a4988b24f7293dbf444664555dd/artifacts
+end_time: 1690816207005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d388a4988b24f7293dbf444664555dd
+run_name: mercurial-skunk-161
+run_uuid: 7d388a4988b24f7293dbf444664555dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816206995
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c84ef043de5e440c9938141961e31f4c/artifacts
+end_time: 1690383919413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c84ef043de5e440c9938141961e31f4c
+run_name: zealous-deer-912
+run_uuid: c84ef043de5e440c9938141961e31f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690383918563
+status: 3
+tags: []
+user_id: cedrix

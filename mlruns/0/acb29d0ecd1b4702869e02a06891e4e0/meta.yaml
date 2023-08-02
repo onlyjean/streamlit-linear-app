@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/acb29d0ecd1b4702869e02a06891e4e0/artifacts
+end_time: 1690826100834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb29d0ecd1b4702869e02a06891e4e0
+run_name: auspicious-roo-854
+run_uuid: acb29d0ecd1b4702869e02a06891e4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826099670
+status: 3
+tags: []
+user_id: cedrix

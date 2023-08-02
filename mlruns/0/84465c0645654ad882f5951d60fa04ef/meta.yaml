@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/84465c0645654ad882f5951d60fa04ef/artifacts
+end_time: 1690982147520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84465c0645654ad882f5951d60fa04ef
+run_name: trusting-toad-578
+run_uuid: 84465c0645654ad882f5951d60fa04ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982146218
+status: 3
+tags: []
+user_id: cedrix

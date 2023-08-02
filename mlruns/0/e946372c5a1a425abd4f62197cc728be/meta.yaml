@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e946372c5a1a425abd4f62197cc728be/artifacts
+end_time: 1690827194642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e946372c5a1a425abd4f62197cc728be
+run_name: sedate-finch-760
+run_uuid: e946372c5a1a425abd4f62197cc728be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827193438
+status: 3
+tags: []
+user_id: cedrix

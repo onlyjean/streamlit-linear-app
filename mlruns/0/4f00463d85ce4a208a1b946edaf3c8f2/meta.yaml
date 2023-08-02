@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4f00463d85ce4a208a1b946edaf3c8f2/artifacts
+end_time: 1690314820993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f00463d85ce4a208a1b946edaf3c8f2
+run_name: skittish-squid-218
+run_uuid: 4f00463d85ce4a208a1b946edaf3c8f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314820477
+status: 3
+tags: []
+user_id: cedrix

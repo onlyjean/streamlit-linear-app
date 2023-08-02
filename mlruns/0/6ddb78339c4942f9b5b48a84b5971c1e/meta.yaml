@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6ddb78339c4942f9b5b48a84b5971c1e/artifacts
+end_time: 1690824469554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ddb78339c4942f9b5b48a84b5971c1e
+run_name: charming-finch-523
+run_uuid: 6ddb78339c4942f9b5b48a84b5971c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824468264
+status: 3
+tags: []
+user_id: cedrix

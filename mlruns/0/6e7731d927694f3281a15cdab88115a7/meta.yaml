@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6e7731d927694f3281a15cdab88115a7/artifacts
+end_time: 1690982515104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e7731d927694f3281a15cdab88115a7
+run_name: bright-dove-323
+run_uuid: 6e7731d927694f3281a15cdab88115a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982513647
+status: 3
+tags: []
+user_id: cedrix

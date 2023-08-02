@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/64c3123e326c44d8b444cf7c889d3760/artifacts
+end_time: 1690982600611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c3123e326c44d8b444cf7c889d3760
+run_name: resilient-jay-814
+run_uuid: 64c3123e326c44d8b444cf7c889d3760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982598981
+status: 3
+tags: []
+user_id: cedrix

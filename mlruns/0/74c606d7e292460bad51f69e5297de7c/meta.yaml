@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/74c606d7e292460bad51f69e5297de7c/artifacts
+end_time: 1690823724310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74c606d7e292460bad51f69e5297de7c
+run_name: powerful-shrew-23
+run_uuid: 74c606d7e292460bad51f69e5297de7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823723315
+status: 3
+tags: []
+user_id: cedrix

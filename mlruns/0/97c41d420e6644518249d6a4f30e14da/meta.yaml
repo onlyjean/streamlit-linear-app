@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/97c41d420e6644518249d6a4f30e14da/artifacts
+end_time: 1690904637814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97c41d420e6644518249d6a4f30e14da
+run_name: painted-grouse-83
+run_uuid: 97c41d420e6644518249d6a4f30e14da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690904636322
+status: 3
+tags: []
+user_id: cedrix

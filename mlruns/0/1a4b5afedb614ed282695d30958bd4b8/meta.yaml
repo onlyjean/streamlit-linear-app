@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/1a4b5afedb614ed282695d30958bd4b8/artifacts
+end_time: 1690823855269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a4b5afedb614ed282695d30958bd4b8
+run_name: respected-bird-495
+run_uuid: 1a4b5afedb614ed282695d30958bd4b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823855258
+status: 3
+tags: []
+user_id: cedrix

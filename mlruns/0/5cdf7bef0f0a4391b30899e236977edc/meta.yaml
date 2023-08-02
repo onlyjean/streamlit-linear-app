@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5cdf7bef0f0a4391b30899e236977edc/artifacts
+end_time: 1690981583869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cdf7bef0f0a4391b30899e236977edc
+run_name: gifted-eel-88
+run_uuid: 5cdf7bef0f0a4391b30899e236977edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981582802
+status: 3
+tags: []
+user_id: cedrix

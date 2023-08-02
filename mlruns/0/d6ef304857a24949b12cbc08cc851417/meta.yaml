@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d6ef304857a24949b12cbc08cc851417/artifacts
+end_time: 1690826825279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6ef304857a24949b12cbc08cc851417
+run_name: vaunted-goose-363
+run_uuid: d6ef304857a24949b12cbc08cc851417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826824368
+status: 3
+tags: []
+user_id: cedrix

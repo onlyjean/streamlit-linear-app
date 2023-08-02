@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/019aca7cdb9543368fbfe1d2bd9303ac/artifacts
+end_time: 1690313775491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 019aca7cdb9543368fbfe1d2bd9303ac
+run_name: bald-skunk-732
+run_uuid: 019aca7cdb9543368fbfe1d2bd9303ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690313774514
+status: 3
+tags: []
+user_id: cedrix

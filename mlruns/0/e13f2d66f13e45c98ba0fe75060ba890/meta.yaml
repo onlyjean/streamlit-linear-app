@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e13f2d66f13e45c98ba0fe75060ba890/artifacts
+end_time: 1690835173704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e13f2d66f13e45c98ba0fe75060ba890
+run_name: chill-dog-227
+run_uuid: e13f2d66f13e45c98ba0fe75060ba890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690835172627
+status: 3
+tags: []
+user_id: cedrix

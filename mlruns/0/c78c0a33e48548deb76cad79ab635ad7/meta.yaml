@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c78c0a33e48548deb76cad79ab635ad7/artifacts
+end_time: 1690386154182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c78c0a33e48548deb76cad79ab635ad7
+run_name: luxuriant-worm-755
+run_uuid: c78c0a33e48548deb76cad79ab635ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386153257
+status: 3
+tags: []
+user_id: cedrix

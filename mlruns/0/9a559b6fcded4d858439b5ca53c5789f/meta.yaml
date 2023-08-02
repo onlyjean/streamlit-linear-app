@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9a559b6fcded4d858439b5ca53c5789f/artifacts
+end_time: 1690982331700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a559b6fcded4d858439b5ca53c5789f
+run_name: traveling-finch-239
+run_uuid: 9a559b6fcded4d858439b5ca53c5789f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982330174
+status: 3
+tags: []
+user_id: cedrix

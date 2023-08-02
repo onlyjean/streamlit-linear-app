@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d9583c39db7f467b8f6310d6186f3f7e/artifacts
+end_time: 1690899528734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9583c39db7f467b8f6310d6186f3f7e
+run_name: luxuriant-fox-891
+run_uuid: d9583c39db7f467b8f6310d6186f3f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690899527273
+status: 3
+tags: []
+user_id: cedrix

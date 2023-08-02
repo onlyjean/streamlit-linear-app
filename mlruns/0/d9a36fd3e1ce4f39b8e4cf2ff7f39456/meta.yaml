@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d9a36fd3e1ce4f39b8e4cf2ff7f39456/artifacts
+end_time: 1690984888772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9a36fd3e1ce4f39b8e4cf2ff7f39456
+run_name: sneaky-mule-15
+run_uuid: d9a36fd3e1ce4f39b8e4cf2ff7f39456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690984887488
+status: 3
+tags: []
+user_id: cedrix

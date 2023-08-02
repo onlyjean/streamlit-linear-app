@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f33b7b18db274b1782129af656babcbb/artifacts
+end_time: 1690816285172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f33b7b18db274b1782129af656babcbb
+run_name: judicious-crane-486
+run_uuid: f33b7b18db274b1782129af656babcbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816285156
+status: 4
+tags: []
+user_id: cedrix

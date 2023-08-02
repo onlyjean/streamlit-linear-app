@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/06d4675a623949d6a140c301b0918cd3/artifacts
+end_time: 1690386472479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06d4675a623949d6a140c301b0918cd3
+run_name: persistent-whale-203
+run_uuid: 06d4675a623949d6a140c301b0918cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386471592
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/08a9d903a89840ddb69b792a16e1e0ff/artifacts
+end_time: 1690639950971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08a9d903a89840ddb69b792a16e1e0ff
+run_name: beautiful-gnat-349
+run_uuid: 08a9d903a89840ddb69b792a16e1e0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690639949518
+status: 3
+tags: []
+user_id: cedrix

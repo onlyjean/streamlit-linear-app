@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6bcd25008f314f2780cd6588da988817/artifacts
+end_time: 1690827291857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bcd25008f314f2780cd6588da988817
+run_name: amazing-shrew-200
+run_uuid: 6bcd25008f314f2780cd6588da988817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827290550
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/389de33107ad42989511943668a94ef5/artifacts
+end_time: 1690816216973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 389de33107ad42989511943668a94ef5
+run_name: flawless-ram-569
+run_uuid: 389de33107ad42989511943668a94ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816216820
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e6e9d8d3e467446e82e189859be8e981/artifacts
+end_time: 1690384366550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6e9d8d3e467446e82e189859be8e981
+run_name: adorable-snipe-227
+run_uuid: e6e9d8d3e467446e82e189859be8e981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384365678
+status: 3
+tags: []
+user_id: cedrix

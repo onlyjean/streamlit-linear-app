@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c6723af972f04357ba0d6e9fb42fc4f5/artifacts
+end_time: 1690313657576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6723af972f04357ba0d6e9fb42fc4f5
+run_name: crawling-donkey-764
+run_uuid: c6723af972f04357ba0d6e9fb42fc4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690313656256
+status: 3
+tags: []
+user_id: cedrix

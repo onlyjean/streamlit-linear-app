@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f539616f39264bb29daa74f2f1e6abdc/artifacts
+end_time: 1690823137891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f539616f39264bb29daa74f2f1e6abdc
+run_name: redolent-cow-564
+run_uuid: f539616f39264bb29daa74f2f1e6abdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823137816
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/537404ba7181434db962eacc48eb3294/artifacts
+end_time: 1690903062226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 537404ba7181434db962eacc48eb3294
+run_name: angry-mule-599
+run_uuid: 537404ba7181434db962eacc48eb3294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690903060699
+status: 3
+tags: []
+user_id: cedrix

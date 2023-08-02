@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/fc346dfc472545e386f8350a1d349229/artifacts
+end_time: 1690817562367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc346dfc472545e386f8350a1d349229
+run_name: caring-loon-263
+run_uuid: fc346dfc472545e386f8350a1d349229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817562356
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/917ed5841a6247178129005d2f29122e/artifacts
+end_time: 1690981693552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 917ed5841a6247178129005d2f29122e
+run_name: bold-snipe-222
+run_uuid: 917ed5841a6247178129005d2f29122e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981692275
+status: 3
+tags: []
+user_id: cedrix

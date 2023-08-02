@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b2027478cbeb479f956dc2484a060395/artifacts
+end_time: 1690816200025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2027478cbeb479f956dc2484a060395
+run_name: exultant-elk-930
+run_uuid: b2027478cbeb479f956dc2484a060395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816198971
+status: 3
+tags: []
+user_id: cedrix

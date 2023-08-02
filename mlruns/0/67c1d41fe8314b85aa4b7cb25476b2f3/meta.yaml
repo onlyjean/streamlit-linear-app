@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/67c1d41fe8314b85aa4b7cb25476b2f3/artifacts
+end_time: 1690822940507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67c1d41fe8314b85aa4b7cb25476b2f3
+run_name: calm-stoat-811
+run_uuid: 67c1d41fe8314b85aa4b7cb25476b2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822939633
+status: 3
+tags: []
+user_id: cedrix

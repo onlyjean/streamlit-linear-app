@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/ad56ca02b04d4c4091d47b7f32efec32/artifacts
+end_time: 1690313617637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad56ca02b04d4c4091d47b7f32efec32
+run_name: amazing-cod-172
+run_uuid: ad56ca02b04d4c4091d47b7f32efec32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690313616659
+status: 3
+tags: []
+user_id: cedrix

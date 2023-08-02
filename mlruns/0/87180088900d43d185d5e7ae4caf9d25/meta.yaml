@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/87180088900d43d185d5e7ae4caf9d25/artifacts
+end_time: 1690821795127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87180088900d43d185d5e7ae4caf9d25
+run_name: traveling-smelt-237
+run_uuid: 87180088900d43d185d5e7ae4caf9d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690821793661
+status: 3
+tags: []
+user_id: cedrix

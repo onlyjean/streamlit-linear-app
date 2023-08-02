@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e4687aba35e84b42aa174a5db36686a7/artifacts
+end_time: 1690385217421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4687aba35e84b42aa174a5db36686a7
+run_name: honorable-finch-616
+run_uuid: e4687aba35e84b42aa174a5db36686a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385216552
+status: 3
+tags: []
+user_id: cedrix

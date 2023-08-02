@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/fcda02c294554c89ac8f5a11f6a8dac8/artifacts
+end_time: 1690823135055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcda02c294554c89ac8f5a11f6a8dac8
+run_name: stylish-cow-621
+run_uuid: fcda02c294554c89ac8f5a11f6a8dac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823135044
+status: 3
+tags: []
+user_id: cedrix

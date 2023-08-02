@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c271cc3e0279418c9ab3eeea9e323ae0/artifacts
+end_time: 1690384238650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c271cc3e0279418c9ab3eeea9e323ae0
+run_name: chill-bug-496
+run_uuid: c271cc3e0279418c9ab3eeea9e323ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384237479
+status: 3
+tags: []
+user_id: cedrix

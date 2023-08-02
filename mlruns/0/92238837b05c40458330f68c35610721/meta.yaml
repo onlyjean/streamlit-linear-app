@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/92238837b05c40458330f68c35610721/artifacts
+end_time: 1690982875650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92238837b05c40458330f68c35610721
+run_name: resilient-snail-190
+run_uuid: 92238837b05c40458330f68c35610721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982874162
+status: 3
+tags: []
+user_id: cedrix

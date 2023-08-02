@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0a3a84d0b1a3450c9874a927f55434fd/artifacts
+end_time: 1690899533458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a3a84d0b1a3450c9874a927f55434fd
+run_name: auspicious-swan-902
+run_uuid: 0a3a84d0b1a3450c9874a927f55434fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690899533440
+status: 4
+tags: []
+user_id: cedrix

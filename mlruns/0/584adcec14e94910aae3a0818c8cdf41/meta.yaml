@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/584adcec14e94910aae3a0818c8cdf41/artifacts
+end_time: 1690817086580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 584adcec14e94910aae3a0818c8cdf41
+run_name: bold-wren-309
+run_uuid: 584adcec14e94910aae3a0818c8cdf41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817085484
+status: 3
+tags: []
+user_id: cedrix

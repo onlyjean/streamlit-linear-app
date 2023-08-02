@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/1733395564d4457b971781531d57b66e/artifacts
+end_time: 1690386692466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1733395564d4457b971781531d57b66e
+run_name: enchanting-bug-194
+run_uuid: 1733395564d4457b971781531d57b66e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386691630
+status: 3
+tags: []
+user_id: cedrix

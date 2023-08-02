@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/913815fecda14d50a0473ddacbd00e72/artifacts
+end_time: 1690827269947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 913815fecda14d50a0473ddacbd00e72
+run_name: amazing-sheep-946
+run_uuid: 913815fecda14d50a0473ddacbd00e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827268776
+status: 3
+tags: []
+user_id: cedrix

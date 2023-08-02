@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5b28accc96c345d9865800395ea2270c/artifacts
+end_time: 1690825712763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b28accc96c345d9865800395ea2270c
+run_name: adaptable-crane-661
+run_uuid: 5b28accc96c345d9865800395ea2270c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825712746
+status: 4
+tags: []
+user_id: cedrix

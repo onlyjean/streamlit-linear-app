@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/df3e0add6d9143b4a0a908250e78a659/artifacts
+end_time: 1690823723307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df3e0add6d9143b4a0a908250e78a659
+run_name: polite-snail-982
+run_uuid: df3e0add6d9143b4a0a908250e78a659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823722064
+status: 3
+tags: []
+user_id: cedrix

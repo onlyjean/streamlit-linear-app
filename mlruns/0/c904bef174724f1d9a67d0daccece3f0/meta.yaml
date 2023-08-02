@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c904bef174724f1d9a67d0daccece3f0/artifacts
+end_time: 1690827198053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c904bef174724f1d9a67d0daccece3f0
+run_name: popular-shrew-379
+run_uuid: c904bef174724f1d9a67d0daccece3f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827197091
+status: 3
+tags: []
+user_id: cedrix

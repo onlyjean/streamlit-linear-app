@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/041d32db5da54a0c8a61b1750dacb818/artifacts
+end_time: 1690824719881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 041d32db5da54a0c8a61b1750dacb818
+run_name: peaceful-elk-545
+run_uuid: 041d32db5da54a0c8a61b1750dacb818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824718987
+status: 3
+tags: []
+user_id: cedrix

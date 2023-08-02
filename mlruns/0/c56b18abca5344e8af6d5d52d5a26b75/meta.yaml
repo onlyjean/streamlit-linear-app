@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c56b18abca5344e8af6d5d52d5a26b75/artifacts
+end_time: 1690980103060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c56b18abca5344e8af6d5d52d5a26b75
+run_name: loud-rook-92
+run_uuid: c56b18abca5344e8af6d5d52d5a26b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690980101432
+status: 3
+tags: []
+user_id: cedrix

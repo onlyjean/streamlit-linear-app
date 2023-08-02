@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c9f267ea528a4abea65ca16b195d7d65/artifacts
+end_time: 1690381420401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9f267ea528a4abea65ca16b195d7d65
+run_name: powerful-rat-918
+run_uuid: c9f267ea528a4abea65ca16b195d7d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381420094
+status: 3
+tags: []
+user_id: cedrix

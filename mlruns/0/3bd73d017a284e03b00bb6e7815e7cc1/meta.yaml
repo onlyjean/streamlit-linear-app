@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3bd73d017a284e03b00bb6e7815e7cc1/artifacts
+end_time: 1690823421017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bd73d017a284e03b00bb6e7815e7cc1
+run_name: resilient-crow-842
+run_uuid: 3bd73d017a284e03b00bb6e7815e7cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823420019
+status: 3
+tags: []
+user_id: cedrix

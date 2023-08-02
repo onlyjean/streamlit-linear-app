@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/25b64a52e3d04473892404f54fc5d9ae/artifacts
+end_time: 1690830654979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25b64a52e3d04473892404f54fc5d9ae
+run_name: popular-ram-244
+run_uuid: 25b64a52e3d04473892404f54fc5d9ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690830653908
+status: 3
+tags: []
+user_id: cedrix

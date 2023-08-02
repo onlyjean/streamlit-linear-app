@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a7ede62aa33c41bbbe9a21dbe383387f/artifacts
+end_time: 1690837654165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ede62aa33c41bbbe9a21dbe383387f
+run_name: monumental-kite-795
+run_uuid: a7ede62aa33c41bbbe9a21dbe383387f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690837652677
+status: 3
+tags: []
+user_id: cedrix

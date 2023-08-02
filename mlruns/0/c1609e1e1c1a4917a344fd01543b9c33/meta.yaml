@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c1609e1e1c1a4917a344fd01543b9c33/artifacts
+end_time: 1690385248363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1609e1e1c1a4917a344fd01543b9c33
+run_name: skittish-bird-712
+run_uuid: c1609e1e1c1a4917a344fd01543b9c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385247414
+status: 3
+tags: []
+user_id: cedrix

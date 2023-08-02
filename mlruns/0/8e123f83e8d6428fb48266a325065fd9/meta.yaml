@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8e123f83e8d6428fb48266a325065fd9/artifacts
+end_time: 1690900567038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e123f83e8d6428fb48266a325065fd9
+run_name: skittish-shrike-813
+run_uuid: 8e123f83e8d6428fb48266a325065fd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690900567020
+status: 4
+tags: []
+user_id: cedrix

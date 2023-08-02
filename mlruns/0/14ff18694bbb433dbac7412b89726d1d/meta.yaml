@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/14ff18694bbb433dbac7412b89726d1d/artifacts
+end_time: 1690830650643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14ff18694bbb433dbac7412b89726d1d
+run_name: intrigued-swan-38
+run_uuid: 14ff18694bbb433dbac7412b89726d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690830649359
+status: 3
+tags: []
+user_id: cedrix

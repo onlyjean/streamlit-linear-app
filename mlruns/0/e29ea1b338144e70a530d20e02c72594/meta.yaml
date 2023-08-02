@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e29ea1b338144e70a530d20e02c72594/artifacts
+end_time: 1690825627158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e29ea1b338144e70a530d20e02c72594
+run_name: magnificent-lark-729
+run_uuid: e29ea1b338144e70a530d20e02c72594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825626204
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/920f5ac5b0a045c6a61c48dfd7c7951d/artifacts
+end_time: 1690817089908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920f5ac5b0a045c6a61c48dfd7c7951d
+run_name: stately-ray-745
+run_uuid: 920f5ac5b0a045c6a61c48dfd7c7951d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817089897
+status: 4
+tags: []
+user_id: cedrix

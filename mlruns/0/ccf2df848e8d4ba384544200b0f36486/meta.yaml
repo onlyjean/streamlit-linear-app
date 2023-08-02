@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/ccf2df848e8d4ba384544200b0f36486/artifacts
+end_time: 1690980030082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf2df848e8d4ba384544200b0f36486
+run_name: colorful-ape-515
+run_uuid: ccf2df848e8d4ba384544200b0f36486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690980028769
+status: 3
+tags: []
+user_id: cedrix

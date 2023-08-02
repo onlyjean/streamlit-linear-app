@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/54339727b0c34cfdaecbdba74dd2d959/artifacts
+end_time: 1690825425970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54339727b0c34cfdaecbdba74dd2d959
+run_name: languid-foal-796
+run_uuid: 54339727b0c34cfdaecbdba74dd2d959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825424880
+status: 3
+tags: []
+user_id: cedrix

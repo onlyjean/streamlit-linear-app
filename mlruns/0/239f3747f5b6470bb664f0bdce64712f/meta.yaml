@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/239f3747f5b6470bb664f0bdce64712f/artifacts
+end_time: 1690314823441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 239f3747f5b6470bb664f0bdce64712f
+run_name: monumental-snake-890
+run_uuid: 239f3747f5b6470bb664f0bdce64712f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314823435
+status: 4
+tags: []
+user_id: cedrix

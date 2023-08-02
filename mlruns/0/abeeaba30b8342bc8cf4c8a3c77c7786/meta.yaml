@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/abeeaba30b8342bc8cf4c8a3c77c7786/artifacts
+end_time: 1690830554311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abeeaba30b8342bc8cf4c8a3c77c7786
+run_name: wise-stag-358
+run_uuid: abeeaba30b8342bc8cf4c8a3c77c7786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690830552892
+status: 3
+tags: []
+user_id: cedrix

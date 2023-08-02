@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/21dcdc5e156542389fb6cf64d4d4c28d/artifacts
+end_time: 1690979825417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21dcdc5e156542389fb6cf64d4d4c28d
+run_name: fortunate-roo-524
+run_uuid: 21dcdc5e156542389fb6cf64d4d4c28d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690979824124
+status: 3
+tags: []
+user_id: cedrix

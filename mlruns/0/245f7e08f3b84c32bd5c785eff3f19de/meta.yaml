@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/245f7e08f3b84c32bd5c785eff3f19de/artifacts
+end_time: 1690965252365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 245f7e08f3b84c32bd5c785eff3f19de
+run_name: caring-shark-479
+run_uuid: 245f7e08f3b84c32bd5c785eff3f19de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690964883066
+status: 3
+tags: []
+user_id: cedrix

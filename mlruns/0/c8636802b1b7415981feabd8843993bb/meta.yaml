@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c8636802b1b7415981feabd8843993bb/artifacts
+end_time: 1690822570699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8636802b1b7415981feabd8843993bb
+run_name: valuable-mole-565
+run_uuid: c8636802b1b7415981feabd8843993bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822570688
+status: 3
+tags: []
+user_id: cedrix

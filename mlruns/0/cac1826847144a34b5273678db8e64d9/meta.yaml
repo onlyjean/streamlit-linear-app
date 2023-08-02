@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cac1826847144a34b5273678db8e64d9/artifacts
+end_time: 1690823553366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cac1826847144a34b5273678db8e64d9
+run_name: bouncy-grub-392
+run_uuid: cac1826847144a34b5273678db8e64d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823552438
+status: 3
+tags: []
+user_id: cedrix

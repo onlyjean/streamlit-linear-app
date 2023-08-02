@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9e68e79c40b7405f81fa5919edf6024e/artifacts
+end_time: 1690314796389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e68e79c40b7405f81fa5919edf6024e
+run_name: valuable-hare-631
+run_uuid: 9e68e79c40b7405f81fa5919edf6024e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314796383
+status: 4
+tags: []
+user_id: cedrix

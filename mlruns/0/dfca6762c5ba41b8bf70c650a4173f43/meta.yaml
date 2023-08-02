@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/dfca6762c5ba41b8bf70c650a4173f43/artifacts
+end_time: 1690816215961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfca6762c5ba41b8bf70c650a4173f43
+run_name: enchanting-worm-628
+run_uuid: dfca6762c5ba41b8bf70c650a4173f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816215377
+status: 3
+tags: []
+user_id: cedrix

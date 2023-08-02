@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2e526dc439104f25bc0b5cf817eee031/artifacts
+end_time: 1690310742259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e526dc439104f25bc0b5cf817eee031
+run_name: bittersweet-carp-86
+run_uuid: 2e526dc439104f25bc0b5cf817eee031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310741320
+status: 3
+tags: []
+user_id: cedrix

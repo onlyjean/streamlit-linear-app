@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/689520070e564fbdba0e219fc9a7d536/artifacts
+end_time: 1690917867145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689520070e564fbdba0e219fc9a7d536
+run_name: stately-smelt-454
+run_uuid: 689520070e564fbdba0e219fc9a7d536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690917865588
+status: 3
+tags: []
+user_id: cedrix

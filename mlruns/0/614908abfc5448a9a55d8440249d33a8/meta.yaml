@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/614908abfc5448a9a55d8440249d33a8/artifacts
+end_time: 1690823855063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 614908abfc5448a9a55d8440249d33a8
+run_name: handsome-cow-721
+run_uuid: 614908abfc5448a9a55d8440249d33a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823854198
+status: 3
+tags: []
+user_id: cedrix

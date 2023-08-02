@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c3ae18c3bfcc4f45923feb588714061a/artifacts
+end_time: 1690383752911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3ae18c3bfcc4f45923feb588714061a
+run_name: smiling-pug-508
+run_uuid: c3ae18c3bfcc4f45923feb588714061a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690383751749
+status: 3
+tags: []
+user_id: cedrix

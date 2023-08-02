@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/921cde8aef704aa6ac5457e9704b1860/artifacts
+end_time: 1690825442645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 921cde8aef704aa6ac5457e9704b1860
+run_name: brawny-panda-81
+run_uuid: 921cde8aef704aa6ac5457e9704b1860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825441700
+status: 3
+tags: []
+user_id: cedrix

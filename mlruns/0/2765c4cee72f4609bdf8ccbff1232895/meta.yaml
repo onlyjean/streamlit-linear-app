@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2765c4cee72f4609bdf8ccbff1232895/artifacts
+end_time: 1690824718984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2765c4cee72f4609bdf8ccbff1232895
+run_name: selective-deer-606
+run_uuid: 2765c4cee72f4609bdf8ccbff1232895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824717970
+status: 3
+tags: []
+user_id: cedrix

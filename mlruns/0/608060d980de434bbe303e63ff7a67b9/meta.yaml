@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/608060d980de434bbe303e63ff7a67b9/artifacts
+end_time: 1690825407222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 608060d980de434bbe303e63ff7a67b9
+run_name: secretive-snail-984
+run_uuid: 608060d980de434bbe303e63ff7a67b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825406245
+status: 3
+tags: []
+user_id: cedrix

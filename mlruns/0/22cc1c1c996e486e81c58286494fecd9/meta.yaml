@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/22cc1c1c996e486e81c58286494fecd9/artifacts
+end_time: 1690314792421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22cc1c1c996e486e81c58286494fecd9
+run_name: amusing-slug-630
+run_uuid: 22cc1c1c996e486e81c58286494fecd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314791400
+status: 3
+tags: []
+user_id: cedrix

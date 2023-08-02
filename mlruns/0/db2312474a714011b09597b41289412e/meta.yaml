@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/db2312474a714011b09597b41289412e/artifacts
+end_time: 1690386152033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db2312474a714011b09597b41289412e
+run_name: painted-stoat-777
+run_uuid: db2312474a714011b09597b41289412e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386150750
+status: 3
+tags: []
+user_id: cedrix

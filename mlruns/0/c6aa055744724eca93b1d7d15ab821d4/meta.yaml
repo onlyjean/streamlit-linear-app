@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c6aa055744724eca93b1d7d15ab821d4/artifacts
+end_time: 1690823068763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6aa055744724eca93b1d7d15ab821d4
+run_name: rogue-dove-897
+run_uuid: c6aa055744724eca93b1d7d15ab821d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823067861
+status: 3
+tags: []
+user_id: cedrix

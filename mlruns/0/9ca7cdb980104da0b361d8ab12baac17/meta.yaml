@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9ca7cdb980104da0b361d8ab12baac17/artifacts
+end_time: 1690816208408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ca7cdb980104da0b361d8ab12baac17
+run_name: inquisitive-doe-173
+run_uuid: 9ca7cdb980104da0b361d8ab12baac17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816207426
+status: 3
+tags: []
+user_id: cedrix

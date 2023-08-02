@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2cf80ffacd6445e89d8e781770cf8e83/artifacts
+end_time: 1690823547620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cf80ffacd6445e89d8e781770cf8e83
+run_name: welcoming-fawn-364
+run_uuid: 2cf80ffacd6445e89d8e781770cf8e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823547609
+status: 3
+tags: []
+user_id: cedrix

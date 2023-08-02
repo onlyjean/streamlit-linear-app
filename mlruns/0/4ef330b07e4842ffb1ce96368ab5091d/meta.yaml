@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4ef330b07e4842ffb1ce96368ab5091d/artifacts
+end_time: 1690981926901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef330b07e4842ffb1ce96368ab5091d
+run_name: skillful-hare-482
+run_uuid: 4ef330b07e4842ffb1ce96368ab5091d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981925601
+status: 3
+tags: []
+user_id: cedrix

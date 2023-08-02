@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2539b3a3f3c14e2f880f0526e61919ed/artifacts
+end_time: 1690823565049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2539b3a3f3c14e2f880f0526e61919ed
+run_name: redolent-whale-652
+run_uuid: 2539b3a3f3c14e2f880f0526e61919ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823564113
+status: 3
+tags: []
+user_id: cedrix

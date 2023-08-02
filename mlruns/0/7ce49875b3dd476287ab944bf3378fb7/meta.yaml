@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7ce49875b3dd476287ab944bf3378fb7/artifacts
+end_time: 1690816197627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce49875b3dd476287ab944bf3378fb7
+run_name: shivering-fox-442
+run_uuid: 7ce49875b3dd476287ab944bf3378fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816197617
+status: 3
+tags: []
+user_id: cedrix

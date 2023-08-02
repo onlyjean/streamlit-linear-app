@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5a8c2edd574f4656a30f60a5e1e35638/artifacts
+end_time: 1690823556761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a8c2edd574f4656a30f60a5e1e35638
+run_name: mercurial-hawk-618
+run_uuid: 5a8c2edd574f4656a30f60a5e1e35638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823555838
+status: 3
+tags: []
+user_id: cedrix

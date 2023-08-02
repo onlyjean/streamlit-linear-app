@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/450a70d1ff48405394ba1b130d9ab323/artifacts
+end_time: 1690825412659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 450a70d1ff48405394ba1b130d9ab323
+run_name: popular-ram-90
+run_uuid: 450a70d1ff48405394ba1b130d9ab323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825411662
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/616ecf290a114194832b57f2d28b7561/artifacts
+end_time: 1690486245236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 616ecf290a114194832b57f2d28b7561
+run_name: awesome-tern-716
+run_uuid: 616ecf290a114194832b57f2d28b7561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690486243513
+status: 3
+tags: []
+user_id: cedrix

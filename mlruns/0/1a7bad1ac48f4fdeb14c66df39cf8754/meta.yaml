@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/1a7bad1ac48f4fdeb14c66df39cf8754/artifacts
+end_time: 1690385796141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7bad1ac48f4fdeb14c66df39cf8754
+run_name: gaudy-mink-252
+run_uuid: 1a7bad1ac48f4fdeb14c66df39cf8754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385795267
+status: 3
+tags: []
+user_id: cedrix

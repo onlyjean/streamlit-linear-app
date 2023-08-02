@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/07274ed8cc5d4531a4da8bbf5dd864d4/artifacts
+end_time: 1690980113354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07274ed8cc5d4531a4da8bbf5dd864d4
+run_name: casual-sloth-434
+run_uuid: 07274ed8cc5d4531a4da8bbf5dd864d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690980112076
+status: 3
+tags: []
+user_id: cedrix

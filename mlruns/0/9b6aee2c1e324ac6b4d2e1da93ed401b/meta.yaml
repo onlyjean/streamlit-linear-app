@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9b6aee2c1e324ac6b4d2e1da93ed401b/artifacts
+end_time: 1690835165308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b6aee2c1e324ac6b4d2e1da93ed401b
+run_name: fortunate-pig-373
+run_uuid: 9b6aee2c1e324ac6b4d2e1da93ed401b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690835163729
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/099d6b072b364193b6439c54dfb8240e/artifacts
+end_time: 1690822558023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 099d6b072b364193b6439c54dfb8240e
+run_name: luminous-rat-847
+run_uuid: 099d6b072b364193b6439c54dfb8240e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822556508
+status: 3
+tags: []
+user_id: cedrix

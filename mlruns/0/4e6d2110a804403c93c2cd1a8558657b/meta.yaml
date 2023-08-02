@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4e6d2110a804403c93c2cd1a8558657b/artifacts
+end_time: 1690384258286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e6d2110a804403c93c2cd1a8558657b
+run_name: sincere-bug-476
+run_uuid: 4e6d2110a804403c93c2cd1a8558657b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384257419
+status: 3
+tags: []
+user_id: cedrix

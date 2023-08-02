@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/77c8dbca1072456d9ceb2d35e134e27e/artifacts
+end_time: 1690823136033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77c8dbca1072456d9ceb2d35e134e27e
+run_name: youthful-midge-617
+run_uuid: 77c8dbca1072456d9ceb2d35e134e27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823135058
+status: 3
+tags: []
+user_id: cedrix

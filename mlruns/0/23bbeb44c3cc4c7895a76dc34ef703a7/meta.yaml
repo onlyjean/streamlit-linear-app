@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/23bbeb44c3cc4c7895a76dc34ef703a7/artifacts
+end_time: 1690381809328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23bbeb44c3cc4c7895a76dc34ef703a7
+run_name: overjoyed-stoat-727
+run_uuid: 23bbeb44c3cc4c7895a76dc34ef703a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381808419
+status: 3
+tags: []
+user_id: cedrix

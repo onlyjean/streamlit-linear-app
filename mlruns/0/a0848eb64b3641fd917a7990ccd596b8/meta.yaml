@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a0848eb64b3641fd917a7990ccd596b8/artifacts
+end_time: 1690822564779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0848eb64b3641fd917a7990ccd596b8
+run_name: abrasive-roo-682
+run_uuid: a0848eb64b3641fd917a7990ccd596b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822564766
+status: 3
+tags: []
+user_id: cedrix

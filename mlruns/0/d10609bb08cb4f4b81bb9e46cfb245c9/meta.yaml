@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d10609bb08cb4f4b81bb9e46cfb245c9/artifacts
+end_time: 1690816187037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d10609bb08cb4f4b81bb9e46cfb245c9
+run_name: sassy-grub-844
+run_uuid: d10609bb08cb4f4b81bb9e46cfb245c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816187027
+status: 3
+tags: []
+user_id: cedrix

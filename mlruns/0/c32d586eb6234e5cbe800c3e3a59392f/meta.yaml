@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c32d586eb6234e5cbe800c3e3a59392f/artifacts
+end_time: 1690823844348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c32d586eb6234e5cbe800c3e3a59392f
+run_name: rumbling-crab-259
+run_uuid: c32d586eb6234e5cbe800c3e3a59392f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823843150
+status: 3
+tags: []
+user_id: cedrix

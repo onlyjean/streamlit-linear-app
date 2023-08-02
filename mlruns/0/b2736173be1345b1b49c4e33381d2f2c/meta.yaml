@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b2736173be1345b1b49c4e33381d2f2c/artifacts
+end_time: 1690826745440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2736173be1345b1b49c4e33381d2f2c
+run_name: bald-wasp-389
+run_uuid: b2736173be1345b1b49c4e33381d2f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826744444
+status: 3
+tags: []
+user_id: cedrix

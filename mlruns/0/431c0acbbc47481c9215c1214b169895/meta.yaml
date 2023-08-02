@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/431c0acbbc47481c9215c1214b169895/artifacts
+end_time: 1690823546926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 431c0acbbc47481c9215c1214b169895
+run_name: whimsical-hen-981
+run_uuid: 431c0acbbc47481c9215c1214b169895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823546428
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6acec02d061b4b5a99b021015207eec0/artifacts
+end_time: 1690902144473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6acec02d061b4b5a99b021015207eec0
+run_name: gifted-grouse-484
+run_uuid: 6acec02d061b4b5a99b021015207eec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690902144456
+status: 4
+tags: []
+user_id: cedrix

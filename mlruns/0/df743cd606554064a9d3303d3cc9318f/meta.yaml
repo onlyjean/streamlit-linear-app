@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/df743cd606554064a9d3303d3cc9318f/artifacts
+end_time: 1690826762113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df743cd606554064a9d3303d3cc9318f
+run_name: flawless-crab-728
+run_uuid: df743cd606554064a9d3303d3cc9318f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826761148
+status: 3
+tags: []
+user_id: cedrix

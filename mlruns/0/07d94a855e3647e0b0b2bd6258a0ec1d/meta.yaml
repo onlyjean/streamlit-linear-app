@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/07d94a855e3647e0b0b2bd6258a0ec1d/artifacts
+end_time: 1690816193143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07d94a855e3647e0b0b2bd6258a0ec1d
+run_name: classy-shad-295
+run_uuid: 07d94a855e3647e0b0b2bd6258a0ec1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816192080
+status: 3
+tags: []
+user_id: cedrix

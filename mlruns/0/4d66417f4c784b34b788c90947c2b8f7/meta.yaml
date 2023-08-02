@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4d66417f4c784b34b788c90947c2b8f7/artifacts
+end_time: 1690314804368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d66417f4c784b34b788c90947c2b8f7
+run_name: auspicious-fly-895
+run_uuid: 4d66417f4c784b34b788c90947c2b8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314803329
+status: 3
+tags: []
+user_id: cedrix

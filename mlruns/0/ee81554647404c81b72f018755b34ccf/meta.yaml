@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/ee81554647404c81b72f018755b34ccf/artifacts
+end_time: 1690817525117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee81554647404c81b72f018755b34ccf
+run_name: dazzling-hare-644
+run_uuid: ee81554647404c81b72f018755b34ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817523599
+status: 3
+tags: []
+user_id: cedrix

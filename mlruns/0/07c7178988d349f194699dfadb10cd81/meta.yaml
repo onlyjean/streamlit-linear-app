@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/07c7178988d349f194699dfadb10cd81/artifacts
+end_time: 1690823552435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07c7178988d349f194699dfadb10cd81
+run_name: amusing-squid-863
+run_uuid: 07c7178988d349f194699dfadb10cd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823551489
+status: 3
+tags: []
+user_id: cedrix

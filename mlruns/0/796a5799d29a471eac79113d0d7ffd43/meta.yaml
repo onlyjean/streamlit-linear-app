@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/796a5799d29a471eac79113d0d7ffd43/artifacts
+end_time: 1690816182441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 796a5799d29a471eac79113d0d7ffd43
+run_name: upbeat-rat-5
+run_uuid: 796a5799d29a471eac79113d0d7ffd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816182180
+status: 3
+tags: []
+user_id: cedrix

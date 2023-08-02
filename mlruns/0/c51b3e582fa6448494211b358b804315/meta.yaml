@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c51b3e582fa6448494211b358b804315/artifacts
+end_time: 1690826763036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c51b3e582fa6448494211b358b804315
+run_name: mercurial-lark-281
+run_uuid: c51b3e582fa6448494211b358b804315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826762117
+status: 3
+tags: []
+user_id: cedrix

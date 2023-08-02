@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/50761f2415a84730a04b4da1abaf69b3/artifacts
+end_time: 1690386327801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50761f2415a84730a04b4da1abaf69b3
+run_name: gaudy-cat-770
+run_uuid: 50761f2415a84730a04b4da1abaf69b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386326904
+status: 3
+tags: []
+user_id: cedrix

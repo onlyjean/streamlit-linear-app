@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8c32b20758404d719fe3e60ad1f8cad1/artifacts
+end_time: 1690314792774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c32b20758404d719fe3e60ad1f8cad1
+run_name: amazing-swan-383
+run_uuid: 8c32b20758404d719fe3e60ad1f8cad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314792764
+status: 4
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9fb5a2bb829244f8aa8e311af9718da8/artifacts
+end_time: 1690823847759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fb5a2bb829244f8aa8e311af9718da8
+run_name: traveling-grub-259
+run_uuid: 9fb5a2bb829244f8aa8e311af9718da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823846767
+status: 3
+tags: []
+user_id: cedrix

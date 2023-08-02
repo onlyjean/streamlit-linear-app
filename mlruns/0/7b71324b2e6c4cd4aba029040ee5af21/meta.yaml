@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7b71324b2e6c4cd4aba029040ee5af21/artifacts
+end_time: 1690314179351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b71324b2e6c4cd4aba029040ee5af21
+run_name: amusing-crane-351
+run_uuid: 7b71324b2e6c4cd4aba029040ee5af21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314177865
+status: 3
+tags: []
+user_id: cedrix

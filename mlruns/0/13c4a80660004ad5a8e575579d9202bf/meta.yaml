@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/13c4a80660004ad5a8e575579d9202bf/artifacts
+end_time: 1690981633979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c4a80660004ad5a8e575579d9202bf
+run_name: puzzled-kit-129
+run_uuid: 13c4a80660004ad5a8e575579d9202bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981632694
+status: 3
+tags: []
+user_id: cedrix

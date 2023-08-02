@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/aa83060cc8674bdcbb402a699bb057a8/artifacts
+end_time: 1690823857228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa83060cc8674bdcbb402a699bb057a8
+run_name: colorful-carp-912
+run_uuid: aa83060cc8674bdcbb402a699bb057a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823857217
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6bf6e5ebe63f4c5783d6ac9d0fce98f7/artifacts
+end_time: 1690385052934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bf6e5ebe63f4c5783d6ac9d0fce98f7
+run_name: hilarious-trout-90
+run_uuid: 6bf6e5ebe63f4c5783d6ac9d0fce98f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385052093
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5578bc24febf4665908a0c3525cff562/artifacts
+end_time: 1690826816796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5578bc24febf4665908a0c3525cff562
+run_name: rumbling-crow-276
+run_uuid: 5578bc24febf4665908a0c3525cff562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826815842
+status: 3
+tags: []
+user_id: cedrix

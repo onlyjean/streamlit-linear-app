@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e68d03b85d9d4b8e8a8f4ddecc8b1081/artifacts
+end_time: 1690822580278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e68d03b85d9d4b8e8a8f4ddecc8b1081
+run_name: unequaled-perch-827
+run_uuid: e68d03b85d9d4b8e8a8f4ddecc8b1081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822579166
+status: 3
+tags: []
+user_id: cedrix

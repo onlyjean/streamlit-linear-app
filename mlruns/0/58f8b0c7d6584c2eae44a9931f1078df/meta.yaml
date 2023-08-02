@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/58f8b0c7d6584c2eae44a9931f1078df/artifacts
+end_time: 1690825411658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58f8b0c7d6584c2eae44a9931f1078df
+run_name: beautiful-sponge-377
+run_uuid: 58f8b0c7d6584c2eae44a9931f1078df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825410715
+status: 3
+tags: []
+user_id: cedrix

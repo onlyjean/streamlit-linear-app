@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e993ab33892645be8fb95a777e18c545/artifacts
+end_time: 1690390389411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e993ab33892645be8fb95a777e18c545
+run_name: kindly-wren-583
+run_uuid: e993ab33892645be8fb95a777e18c545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690390388299
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/312e5ab9718342628b435efc5b1987f2/artifacts
+end_time: 1690314230528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 312e5ab9718342628b435efc5b1987f2
+run_name: adorable-perch-951
+run_uuid: 312e5ab9718342628b435efc5b1987f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314229572
+status: 3
+tags: []
+user_id: cedrix

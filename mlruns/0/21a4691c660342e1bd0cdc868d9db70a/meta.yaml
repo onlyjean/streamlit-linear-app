@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/21a4691c660342e1bd0cdc868d9db70a/artifacts
+end_time: 1690984021659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21a4691c660342e1bd0cdc868d9db70a
+run_name: secretive-mink-815
+run_uuid: 21a4691c660342e1bd0cdc868d9db70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690984020371
+status: 3
+tags: []
+user_id: cedrix

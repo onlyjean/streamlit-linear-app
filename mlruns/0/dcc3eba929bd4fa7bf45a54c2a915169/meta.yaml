@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/dcc3eba929bd4fa7bf45a54c2a915169/artifacts
+end_time: 1690816281936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcc3eba929bd4fa7bf45a54c2a915169
+run_name: inquisitive-koi-392
+run_uuid: dcc3eba929bd4fa7bf45a54c2a915169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816281925
+status: 3
+tags: []
+user_id: cedrix

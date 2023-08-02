@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6361bd019f6849b59dfc2eb8230425c4/artifacts
+end_time: 1690980459821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6361bd019f6849b59dfc2eb8230425c4
+run_name: redolent-rook-986
+run_uuid: 6361bd019f6849b59dfc2eb8230425c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690980458200
+status: 3
+tags: []
+user_id: cedrix

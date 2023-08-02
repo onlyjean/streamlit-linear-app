@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/ee7cf3ee4bd84ed1b4476bd937eb2327/artifacts
+end_time: 1690822699626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee7cf3ee4bd84ed1b4476bd937eb2327
+run_name: adventurous-grub-944
+run_uuid: ee7cf3ee4bd84ed1b4476bd937eb2327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822698563
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/72643049aaed4a4ab509266e6c7941e3/artifacts
+end_time: 1690824699003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72643049aaed4a4ab509266e6c7941e3
+run_name: powerful-koi-780
+run_uuid: 72643049aaed4a4ab509266e6c7941e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824698057
+status: 3
+tags: []
+user_id: cedrix

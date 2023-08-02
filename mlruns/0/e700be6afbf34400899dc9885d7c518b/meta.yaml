@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e700be6afbf34400899dc9885d7c518b/artifacts
+end_time: 1690823568062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e700be6afbf34400899dc9885d7c518b
+run_name: upbeat-skink-242
+run_uuid: e700be6afbf34400899dc9885d7c518b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823567125
+status: 3
+tags: []
+user_id: cedrix

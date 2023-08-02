@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d55904ff328d44ddb860a5bebce72614/artifacts
+end_time: 1690816214735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d55904ff328d44ddb860a5bebce72614
+run_name: enchanting-midge-294
+run_uuid: d55904ff328d44ddb860a5bebce72614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816213905
+status: 3
+tags: []
+user_id: cedrix

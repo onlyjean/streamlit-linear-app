@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7e3d8725f8a24d17b37a6561e6ed0157/artifacts
+end_time: 1690816284316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e3d8725f8a24d17b37a6561e6ed0157
+run_name: thoughtful-bat-32
+run_uuid: 7e3d8725f8a24d17b37a6561e6ed0157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816283109
+status: 3
+tags: []
+user_id: cedrix

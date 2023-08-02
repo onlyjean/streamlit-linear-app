@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a6fae0f6a9fc414e9087e2c16e0f1dfc/artifacts
+end_time: 1690925991978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6fae0f6a9fc414e9087e2c16e0f1dfc
+run_name: selective-ram-317
+run_uuid: a6fae0f6a9fc414e9087e2c16e0f1dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690925990299
+status: 3
+tags: []
+user_id: cedrix

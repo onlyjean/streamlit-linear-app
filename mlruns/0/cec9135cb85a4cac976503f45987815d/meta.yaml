@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cec9135cb85a4cac976503f45987815d/artifacts
+end_time: 1690390320765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cec9135cb85a4cac976503f45987815d
+run_name: clumsy-stork-337
+run_uuid: cec9135cb85a4cac976503f45987815d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690390319885
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/bca327be6d494e9885a52f5699f634c3/artifacts
+end_time: 1690903621764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bca327be6d494e9885a52f5699f634c3
+run_name: enthused-sloth-838
+run_uuid: bca327be6d494e9885a52f5699f634c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690903620219
+status: 3
+tags: []
+user_id: cedrix

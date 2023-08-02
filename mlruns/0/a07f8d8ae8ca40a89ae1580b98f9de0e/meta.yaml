@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a07f8d8ae8ca40a89ae1580b98f9de0e/artifacts
+end_time: 1690823561204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a07f8d8ae8ca40a89ae1580b98f9de0e
+run_name: mysterious-crane-155
+run_uuid: a07f8d8ae8ca40a89ae1580b98f9de0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823560241
+status: 3
+tags: []
+user_id: cedrix

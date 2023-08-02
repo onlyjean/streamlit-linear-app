@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2a3311158319450da2e7b4f4b4247789/artifacts
+end_time: 1690981555203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a3311158319450da2e7b4f4b4247789
+run_name: upset-midge-181
+run_uuid: 2a3311158319450da2e7b4f4b4247789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981553835
+status: 3
+tags: []
+user_id: cedrix

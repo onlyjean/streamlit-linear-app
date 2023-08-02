@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/515cc971a5034bde9930719fda1b90bd/artifacts
+end_time: 1690822563686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 515cc971a5034bde9930719fda1b90bd
+run_name: youthful-chimp-131
+run_uuid: 515cc971a5034bde9930719fda1b90bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822562584
+status: 3
+tags: []
+user_id: cedrix

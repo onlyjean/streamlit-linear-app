@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d95707dbc28e4b1eb61fe4e7f882188f/artifacts
+end_time: 1690816200050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d95707dbc28e4b1eb61fe4e7f882188f
+run_name: glamorous-goose-421
+run_uuid: d95707dbc28e4b1eb61fe4e7f882188f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816200039
+status: 3
+tags: []
+user_id: cedrix

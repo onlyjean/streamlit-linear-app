@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f91943a0e0a24454b9d731083f8ae514/artifacts
+end_time: 1690817089426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91943a0e0a24454b9d731083f8ae514
+run_name: fortunate-turtle-136
+run_uuid: f91943a0e0a24454b9d731083f8ae514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817088167
+status: 3
+tags: []
+user_id: cedrix

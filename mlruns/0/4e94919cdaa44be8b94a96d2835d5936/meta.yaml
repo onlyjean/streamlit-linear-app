@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4e94919cdaa44be8b94a96d2835d5936/artifacts
+end_time: 1690926421583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e94919cdaa44be8b94a96d2835d5936
+run_name: handsome-hawk-843
+run_uuid: 4e94919cdaa44be8b94a96d2835d5936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690926419926
+status: 3
+tags: []
+user_id: cedrix

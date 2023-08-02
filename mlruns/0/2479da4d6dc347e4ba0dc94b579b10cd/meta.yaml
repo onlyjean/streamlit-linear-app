@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2479da4d6dc347e4ba0dc94b579b10cd/artifacts
+end_time: 1690384257160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2479da4d6dc347e4ba0dc94b579b10cd
+run_name: amazing-fly-296
+run_uuid: 2479da4d6dc347e4ba0dc94b579b10cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384256316
+status: 3
+tags: []
+user_id: cedrix

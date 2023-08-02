@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0a7160dd4bc34fa1af87f896f7e320f6/artifacts
+end_time: 1690816281650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a7160dd4bc34fa1af87f896f7e320f6
+run_name: righteous-sponge-349
+run_uuid: 0a7160dd4bc34fa1af87f896f7e320f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816280304
+status: 3
+tags: []
+user_id: cedrix

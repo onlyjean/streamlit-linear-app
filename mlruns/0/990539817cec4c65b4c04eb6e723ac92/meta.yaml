@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/990539817cec4c65b4c04eb6e723ac92/artifacts
+end_time: 1690650828858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 990539817cec4c65b4c04eb6e723ac92
+run_name: indecisive-croc-191
+run_uuid: 990539817cec4c65b4c04eb6e723ac92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690650827354
+status: 3
+tags: []
+user_id: cedrix

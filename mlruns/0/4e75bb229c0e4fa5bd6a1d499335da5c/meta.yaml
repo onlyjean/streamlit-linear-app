@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4e75bb229c0e4fa5bd6a1d499335da5c/artifacts
+end_time: 1690824724702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e75bb229c0e4fa5bd6a1d499335da5c
+run_name: secretive-loon-723
+run_uuid: 4e75bb229c0e4fa5bd6a1d499335da5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824723716
+status: 3
+tags: []
+user_id: cedrix

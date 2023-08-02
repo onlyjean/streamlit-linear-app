@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/055e4b98a5fa43da9a1bef20610b6b42/artifacts
+end_time: 1690314756605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 055e4b98a5fa43da9a1bef20610b6b42
+run_name: traveling-goose-984
+run_uuid: 055e4b98a5fa43da9a1bef20610b6b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314756598
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f1f2c93bfc0e4efcb7f8740af62abf9a/artifacts
+end_time: 1690823845360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1f2c93bfc0e4efcb7f8740af62abf9a
+run_name: delightful-carp-321
+run_uuid: f1f2c93bfc0e4efcb7f8740af62abf9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823844352
+status: 3
+tags: []
+user_id: cedrix

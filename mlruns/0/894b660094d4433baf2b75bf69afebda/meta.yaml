@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/894b660094d4433baf2b75bf69afebda/artifacts
+end_time: 1690921724141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 894b660094d4433baf2b75bf69afebda
+run_name: charming-mole-719
+run_uuid: 894b660094d4433baf2b75bf69afebda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690921722472
+status: 3
+tags: []
+user_id: cedrix

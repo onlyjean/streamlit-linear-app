@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b57b9ef50ee14b0c80920c517a7e884b/artifacts
+end_time: 1690822940731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b57b9ef50ee14b0c80920c517a7e884b
+run_name: gentle-bird-870
+run_uuid: b57b9ef50ee14b0c80920c517a7e884b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822940720
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e3843e59364741629262314c96e02b04/artifacts
+end_time: 1690384325389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3843e59364741629262314c96e02b04
+run_name: nebulous-grouse-621
+run_uuid: e3843e59364741629262314c96e02b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384324505
+status: 3
+tags: []
+user_id: cedrix

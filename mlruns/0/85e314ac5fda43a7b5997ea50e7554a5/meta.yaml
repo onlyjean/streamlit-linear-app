@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/85e314ac5fda43a7b5997ea50e7554a5/artifacts
+end_time: 1690824735923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85e314ac5fda43a7b5997ea50e7554a5
+run_name: marvelous-yak-310
+run_uuid: 85e314ac5fda43a7b5997ea50e7554a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824734902
+status: 3
+tags: []
+user_id: cedrix

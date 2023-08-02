@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a7c66d473c6b437281120ace1979566e/artifacts
+end_time: 1690981047939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7c66d473c6b437281120ace1979566e
+run_name: marvelous-asp-396
+run_uuid: a7c66d473c6b437281120ace1979566e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981047930
+status: 3
+tags: []
+user_id: cedrix

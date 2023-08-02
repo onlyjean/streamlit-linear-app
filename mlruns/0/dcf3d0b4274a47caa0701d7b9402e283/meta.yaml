@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/dcf3d0b4274a47caa0701d7b9402e283/artifacts
+end_time: 1690981952750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcf3d0b4274a47caa0701d7b9402e283
+run_name: skittish-bass-61
+run_uuid: dcf3d0b4274a47caa0701d7b9402e283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981951434
+status: 3
+tags: []
+user_id: cedrix

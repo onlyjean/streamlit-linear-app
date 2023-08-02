@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b06889f7bda841349b4a468744cca8bb/artifacts
+end_time: 1690981109320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b06889f7bda841349b4a468744cca8bb
+run_name: funny-elk-919
+run_uuid: b06889f7bda841349b4a468744cca8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981107776
+status: 4
+tags: []
+user_id: cedrix

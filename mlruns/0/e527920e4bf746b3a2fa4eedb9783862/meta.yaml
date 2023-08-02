@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e527920e4bf746b3a2fa4eedb9783862/artifacts
+end_time: 1690314223885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e527920e4bf746b3a2fa4eedb9783862
+run_name: glamorous-crow-55
+run_uuid: e527920e4bf746b3a2fa4eedb9783862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314222894
+status: 3
+tags: []
+user_id: cedrix

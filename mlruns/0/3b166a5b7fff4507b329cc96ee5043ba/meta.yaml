@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3b166a5b7fff4507b329cc96ee5043ba/artifacts
+end_time: 1690381516390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b166a5b7fff4507b329cc96ee5043ba
+run_name: polite-bat-197
+run_uuid: 3b166a5b7fff4507b329cc96ee5043ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381515477
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8de0db52bb6e4841a86dfafe30333427/artifacts
+end_time: 1690981299023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de0db52bb6e4841a86dfafe30333427
+run_name: nervous-fox-878
+run_uuid: 8de0db52bb6e4841a86dfafe30333427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981297712
+status: 3
+tags: []
+user_id: cedrix

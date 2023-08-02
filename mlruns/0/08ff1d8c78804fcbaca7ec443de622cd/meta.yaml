@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/08ff1d8c78804fcbaca7ec443de622cd/artifacts
+end_time: 1690824141636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ff1d8c78804fcbaca7ec443de622cd
+run_name: victorious-skunk-901
+run_uuid: 08ff1d8c78804fcbaca7ec443de622cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824140644
+status: 3
+tags: []
+user_id: cedrix

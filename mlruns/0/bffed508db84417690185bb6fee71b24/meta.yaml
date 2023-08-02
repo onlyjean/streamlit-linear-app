@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/bffed508db84417690185bb6fee71b24/artifacts
+end_time: 1690965464570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bffed508db84417690185bb6fee71b24
+run_name: hilarious-fox-712
+run_uuid: bffed508db84417690185bb6fee71b24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690965252396
+status: 3
+tags: []
+user_id: cedrix

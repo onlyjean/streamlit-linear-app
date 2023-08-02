@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8a8f2e35974d4a41a6347effca720dfa/artifacts
+end_time: 1690816196453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a8f2e35974d4a41a6347effca720dfa
+run_name: monumental-panda-8
+run_uuid: 8a8f2e35974d4a41a6347effca720dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816196443
+status: 3
+tags: []
+user_id: cedrix

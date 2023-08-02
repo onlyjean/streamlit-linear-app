@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e448e83d33634a62b9e7b2da42976159/artifacts
+end_time: 1690822570438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e448e83d33634a62b9e7b2da42976159
+run_name: fortunate-bear-431
+run_uuid: e448e83d33634a62b9e7b2da42976159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822569581
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/19901d77eb2f4f3da8ecb7b19113fc4f/artifacts
+end_time: 1690824732247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19901d77eb2f4f3da8ecb7b19113fc4f
+run_name: able-hound-10
+run_uuid: 19901d77eb2f4f3da8ecb7b19113fc4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824731276
+status: 3
+tags: []
+user_id: cedrix

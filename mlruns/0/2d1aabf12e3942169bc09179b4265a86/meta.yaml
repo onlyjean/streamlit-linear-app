@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2d1aabf12e3942169bc09179b4265a86/artifacts
+end_time: 1690902303161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d1aabf12e3942169bc09179b4265a86
+run_name: adorable-newt-588
+run_uuid: 2d1aabf12e3942169bc09179b4265a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690902301712
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/533790791b0748938b492b6f3d4c5048/artifacts
+end_time: 1690386687535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 533790791b0748938b492b6f3d4c5048
+run_name: shivering-shrew-107
+run_uuid: 533790791b0748938b492b6f3d4c5048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386686208
+status: 3
+tags: []
+user_id: cedrix

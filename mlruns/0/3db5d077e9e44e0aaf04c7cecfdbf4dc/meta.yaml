@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3db5d077e9e44e0aaf04c7cecfdbf4dc/artifacts
+end_time: 1690386155314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db5d077e9e44e0aaf04c7cecfdbf4dc
+run_name: glamorous-fowl-845
+run_uuid: 3db5d077e9e44e0aaf04c7cecfdbf4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386154447
+status: 3
+tags: []
+user_id: cedrix

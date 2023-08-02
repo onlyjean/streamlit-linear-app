@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9fb177716653452ebcaef9952fdb8fd6/artifacts
+end_time: 1690823072635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fb177716653452ebcaef9952fdb8fd6
+run_name: abrasive-eel-224
+run_uuid: 9fb177716653452ebcaef9952fdb8fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823071567
+status: 3
+tags: []
+user_id: cedrix

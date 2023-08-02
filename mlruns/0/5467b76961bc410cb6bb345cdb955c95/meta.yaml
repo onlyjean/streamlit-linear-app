@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5467b76961bc410cb6bb345cdb955c95/artifacts
+end_time: 1690824703614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5467b76961bc410cb6bb345cdb955c95
+run_name: melodic-chimp-965
+run_uuid: 5467b76961bc410cb6bb345cdb955c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690824702643
+status: 3
+tags: []
+user_id: cedrix

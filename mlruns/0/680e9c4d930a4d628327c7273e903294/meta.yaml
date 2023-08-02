@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/680e9c4d930a4d628327c7273e903294/artifacts
+end_time: 1690823414843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 680e9c4d930a4d628327c7273e903294
+run_name: capricious-dove-230
+run_uuid: 680e9c4d930a4d628327c7273e903294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823413642
+status: 3
+tags: []
+user_id: cedrix

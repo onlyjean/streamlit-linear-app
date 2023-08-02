@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/315f595b103b4d8ea5be9bad1a397778/artifacts
+end_time: 1690384310077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315f595b103b4d8ea5be9bad1a397778
+run_name: glamorous-worm-781
+run_uuid: 315f595b103b4d8ea5be9bad1a397778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384309161
+status: 3
+tags: []
+user_id: cedrix

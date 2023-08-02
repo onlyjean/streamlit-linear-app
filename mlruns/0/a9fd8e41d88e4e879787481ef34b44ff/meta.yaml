@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a9fd8e41d88e4e879787481ef34b44ff/artifacts
+end_time: 1690822700470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9fd8e41d88e4e879787481ef34b44ff
+run_name: casual-fowl-839
+run_uuid: a9fd8e41d88e4e879787481ef34b44ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822699635
+status: 3
+tags: []
+user_id: cedrix

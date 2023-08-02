@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4c34d361ce9044eca9499b621e1feb28/artifacts
+end_time: 1690384256043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c34d361ce9044eca9499b621e1feb28
+run_name: luxuriant-stag-158
+run_uuid: 4c34d361ce9044eca9499b621e1feb28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384255020
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f1e03f5974884a6fa3bf557bdfc94adb/artifacts
+end_time: 1690816186969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1e03f5974884a6fa3bf557bdfc94adb
+run_name: skillful-mule-729
+run_uuid: f1e03f5974884a6fa3bf557bdfc94adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816185956
+status: 3
+tags: []
+user_id: cedrix

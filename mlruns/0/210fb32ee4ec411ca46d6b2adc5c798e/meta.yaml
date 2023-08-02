@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/210fb32ee4ec411ca46d6b2adc5c798e/artifacts
+end_time: 1690826764415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 210fb32ee4ec411ca46d6b2adc5c798e
+run_name: salty-squirrel-690
+run_uuid: 210fb32ee4ec411ca46d6b2adc5c798e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826763474
+status: 3
+tags: []
+user_id: cedrix

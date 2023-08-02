@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5dd4cdbe47494f47a943de830fe30cf3/artifacts
+end_time: 1690825405154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd4cdbe47494f47a943de830fe30cf3
+run_name: serious-mole-688
+run_uuid: 5dd4cdbe47494f47a943de830fe30cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825404127
+status: 3
+tags: []
+user_id: cedrix

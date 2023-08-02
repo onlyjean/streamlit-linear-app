@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/31c34528af87484b9c43ff6907ea8852/artifacts
+end_time: 1690830559729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c34528af87484b9c43ff6907ea8852
+run_name: gentle-snipe-243
+run_uuid: 31c34528af87484b9c43ff6907ea8852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690830559711
+status: 4
+tags: []
+user_id: cedrix

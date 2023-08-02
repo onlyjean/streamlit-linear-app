@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/251371ea5fec4fd89ad4263dc8ca6ad7/artifacts
+end_time: 1690827221839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 251371ea5fec4fd89ad4263dc8ca6ad7
+run_name: fortunate-finch-205
+run_uuid: 251371ea5fec4fd89ad4263dc8ca6ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827221825
+status: 4
+tags: []
+user_id: cedrix

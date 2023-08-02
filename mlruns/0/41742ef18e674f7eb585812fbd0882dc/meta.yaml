@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/41742ef18e674f7eb585812fbd0882dc/artifacts
+end_time: 1690981592322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41742ef18e674f7eb585812fbd0882dc
+run_name: agreeable-crab-458
+run_uuid: 41742ef18e674f7eb585812fbd0882dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981591189
+status: 3
+tags: []
+user_id: cedrix

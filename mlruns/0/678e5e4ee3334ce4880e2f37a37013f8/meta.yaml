@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/678e5e4ee3334ce4880e2f37a37013f8/artifacts
+end_time: 1690821800514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 678e5e4ee3334ce4880e2f37a37013f8
+run_name: nervous-mare-951
+run_uuid: 678e5e4ee3334ce4880e2f37a37013f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690821800503
+status: 3
+tags: []
+user_id: cedrix

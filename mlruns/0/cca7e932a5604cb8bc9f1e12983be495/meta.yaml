@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cca7e932a5604cb8bc9f1e12983be495/artifacts
+end_time: 1690816699051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca7e932a5604cb8bc9f1e12983be495
+run_name: clumsy-squirrel-570
+run_uuid: cca7e932a5604cb8bc9f1e12983be495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816697480
+status: 3
+tags: []
+user_id: cedrix

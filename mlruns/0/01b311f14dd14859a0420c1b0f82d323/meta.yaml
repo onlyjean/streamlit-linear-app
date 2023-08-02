@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/01b311f14dd14859a0420c1b0f82d323/artifacts
+end_time: 1690826756327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01b311f14dd14859a0420c1b0f82d323
+run_name: intrigued-carp-530
+run_uuid: 01b311f14dd14859a0420c1b0f82d323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826756316
+status: 3
+tags: []
+user_id: cedrix

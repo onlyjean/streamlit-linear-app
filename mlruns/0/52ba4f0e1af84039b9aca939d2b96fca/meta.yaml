@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/52ba4f0e1af84039b9aca939d2b96fca/artifacts
+end_time: 1690826759377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52ba4f0e1af84039b9aca939d2b96fca
+run_name: rogue-panda-819
+run_uuid: 52ba4f0e1af84039b9aca939d2b96fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826758427
+status: 3
+tags: []
+user_id: cedrix

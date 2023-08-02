@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/306b5ef3c1e54f8c9c7c9fe4bf21609b/artifacts
+end_time: 1690817079478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306b5ef3c1e54f8c9c7c9fe4bf21609b
+run_name: nervous-grub-887
+run_uuid: 306b5ef3c1e54f8c9c7c9fe4bf21609b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690817078328
+status: 3
+tags: []
+user_id: cedrix

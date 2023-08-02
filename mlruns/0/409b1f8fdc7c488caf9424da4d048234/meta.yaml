@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/409b1f8fdc7c488caf9424da4d048234/artifacts
+end_time: 1690381521685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 409b1f8fdc7c488caf9424da4d048234
+run_name: thundering-moose-184
+run_uuid: 409b1f8fdc7c488caf9424da4d048234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381520976
+status: 3
+tags: []
+user_id: cedrix

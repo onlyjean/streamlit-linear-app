@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c8ab97d82d3944a48bf468312225a48a/artifacts
+end_time: 1690389102044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8ab97d82d3944a48bf468312225a48a
+run_name: selective-panda-181
+run_uuid: c8ab97d82d3944a48bf468312225a48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389101198
+status: 3
+tags: []
+user_id: cedrix

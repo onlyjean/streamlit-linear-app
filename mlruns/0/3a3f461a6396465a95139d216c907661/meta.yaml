@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3a3f461a6396465a95139d216c907661/artifacts
+end_time: 1690822684447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a3f461a6396465a95139d216c907661
+run_name: nimble-seal-209
+run_uuid: 3a3f461a6396465a95139d216c907661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822683414
+status: 3
+tags: []
+user_id: cedrix

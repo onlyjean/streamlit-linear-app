@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e6ca66892d4e4e32a1443c34438a441b/artifacts
+end_time: 1690385243518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6ca66892d4e4e32a1443c34438a441b
+run_name: nimble-owl-428
+run_uuid: e6ca66892d4e4e32a1443c34438a441b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385242676
+status: 3
+tags: []
+user_id: cedrix

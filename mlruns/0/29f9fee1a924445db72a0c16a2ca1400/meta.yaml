@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/29f9fee1a924445db72a0c16a2ca1400/artifacts
+end_time: 1690826819283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29f9fee1a924445db72a0c16a2ca1400
+run_name: sedate-moose-257
+run_uuid: 29f9fee1a924445db72a0c16a2ca1400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826818284
+status: 3
+tags: []
+user_id: cedrix

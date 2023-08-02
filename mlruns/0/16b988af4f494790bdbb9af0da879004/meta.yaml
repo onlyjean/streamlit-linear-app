@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/16b988af4f494790bdbb9af0da879004/artifacts
+end_time: 1690389642382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b988af4f494790bdbb9af0da879004
+run_name: persistent-zebra-255
+run_uuid: 16b988af4f494790bdbb9af0da879004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389641457
+status: 3
+tags: []
+user_id: cedrix

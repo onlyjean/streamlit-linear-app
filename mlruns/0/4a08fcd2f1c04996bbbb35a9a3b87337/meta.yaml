@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4a08fcd2f1c04996bbbb35a9a3b87337/artifacts
+end_time: 1690314196216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a08fcd2f1c04996bbbb35a9a3b87337
+run_name: bustling-bat-627
+run_uuid: 4a08fcd2f1c04996bbbb35a9a3b87337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314196099
+status: 3
+tags: []
+user_id: cedrix

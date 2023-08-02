@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/4025ca0b343d46bcb857e7ef08f477bd/artifacts
+end_time: 1690826747943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4025ca0b343d46bcb857e7ef08f477bd
+run_name: bittersweet-lynx-372
+run_uuid: 4025ca0b343d46bcb857e7ef08f477bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826746931
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d1066519b15b4f96b47055f96ea1fe61/artifacts
+end_time: 1690822579153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1066519b15b4f96b47055f96ea1fe61
+run_name: whimsical-gnu-541
+run_uuid: d1066519b15b4f96b47055f96ea1fe61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822578037
+status: 3
+tags: []
+user_id: cedrix

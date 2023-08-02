@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/25bff162b92446ccb4d93489fdf98b96/artifacts
+end_time: 1690386477605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25bff162b92446ccb4d93489fdf98b96
+run_name: kindly-trout-401
+run_uuid: 25bff162b92446ccb4d93489fdf98b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386476762
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/73c6a55f0d1c4820bd76931cc7ea7d97/artifacts
+end_time: 1690823562553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c6a55f0d1c4820bd76931cc7ea7d97
+run_name: crawling-turtle-719
+run_uuid: 73c6a55f0d1c4820bd76931cc7ea7d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823561208
+status: 3
+tags: []
+user_id: cedrix

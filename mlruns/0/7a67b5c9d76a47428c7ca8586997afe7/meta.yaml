@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7a67b5c9d76a47428c7ca8586997afe7/artifacts
+end_time: 1690823850088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a67b5c9d76a47428c7ca8586997afe7
+run_name: unleashed-snail-790
+run_uuid: 7a67b5c9d76a47428c7ca8586997afe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823849064
+status: 3
+tags: []
+user_id: cedrix

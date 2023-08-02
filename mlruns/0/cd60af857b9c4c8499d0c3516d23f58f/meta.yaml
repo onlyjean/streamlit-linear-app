@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cd60af857b9c4c8499d0c3516d23f58f/artifacts
+end_time: 1690822571702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd60af857b9c4c8499d0c3516d23f58f
+run_name: polite-midge-156
+run_uuid: cd60af857b9c4c8499d0c3516d23f58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822570702
+status: 3
+tags: []
+user_id: cedrix

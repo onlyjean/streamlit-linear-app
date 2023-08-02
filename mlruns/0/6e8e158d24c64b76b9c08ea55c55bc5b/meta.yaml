@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6e8e158d24c64b76b9c08ea55c55bc5b/artifacts
+end_time: 1690816181674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e8e158d24c64b76b9c08ea55c55bc5b
+run_name: bedecked-hen-966
+run_uuid: 6e8e158d24c64b76b9c08ea55c55bc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816181341
+status: 3
+tags: []
+user_id: cedrix

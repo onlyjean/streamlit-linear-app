@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e3533e630c044cfdb43ff56626e5dc78/artifacts
+end_time: 1690823131394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3533e630c044cfdb43ff56626e5dc78
+run_name: salty-stoat-627
+run_uuid: e3533e630c044cfdb43ff56626e5dc78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823130706
+status: 3
+tags: []
+user_id: cedrix

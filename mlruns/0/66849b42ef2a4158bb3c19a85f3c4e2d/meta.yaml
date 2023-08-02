@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/66849b42ef2a4158bb3c19a85f3c4e2d/artifacts
+end_time: 1690389100923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66849b42ef2a4158bb3c19a85f3c4e2d
+run_name: nimble-hound-225
+run_uuid: 66849b42ef2a4158bb3c19a85f3c4e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389100051
+status: 3
+tags: []
+user_id: cedrix

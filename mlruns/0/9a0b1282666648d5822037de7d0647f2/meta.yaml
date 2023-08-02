@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9a0b1282666648d5822037de7d0647f2/artifacts
+end_time: 1690402479783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a0b1282666648d5822037de7d0647f2
+run_name: rumbling-shoat-511
+run_uuid: 9a0b1282666648d5822037de7d0647f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690402471835
+status: 3
+tags: []
+user_id: cedrix

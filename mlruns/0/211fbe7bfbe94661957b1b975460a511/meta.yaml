@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/211fbe7bfbe94661957b1b975460a511/artifacts
+end_time: 1690823562555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 211fbe7bfbe94661957b1b975460a511
+run_name: popular-bass-433
+run_uuid: 211fbe7bfbe94661957b1b975460a511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823561230
+status: 3
+tags: []
+user_id: cedrix

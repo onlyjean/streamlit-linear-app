@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0a61130a79034ddd92288f07ad9adfae/artifacts
+end_time: 1690650020988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a61130a79034ddd92288f07ad9adfae
+run_name: hilarious-chimp-270
+run_uuid: 0a61130a79034ddd92288f07ad9adfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690650019508
+status: 3
+tags: []
+user_id: cedrix

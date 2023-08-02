@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d3232eb9dc1e416fa132319b88a43784/artifacts
+end_time: 1690385296109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3232eb9dc1e416fa132319b88a43784
+run_name: amazing-conch-374
+run_uuid: d3232eb9dc1e416fa132319b88a43784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385294994
+status: 3
+tags: []
+user_id: cedrix

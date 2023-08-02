@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c2769b011cc24bcda196c12f2a7d2fc7/artifacts
+end_time: 1690981976949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2769b011cc24bcda196c12f2a7d2fc7
+run_name: caring-tern-923
+run_uuid: c2769b011cc24bcda196c12f2a7d2fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690981975639
+status: 3
+tags: []
+user_id: cedrix

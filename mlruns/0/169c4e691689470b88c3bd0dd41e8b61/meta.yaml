@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/169c4e691689470b88c3bd0dd41e8b61/artifacts
+end_time: 1690903699796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 169c4e691689470b88c3bd0dd41e8b61
+run_name: popular-wolf-575
+run_uuid: 169c4e691689470b88c3bd0dd41e8b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690903698181
+status: 3
+tags: []
+user_id: cedrix

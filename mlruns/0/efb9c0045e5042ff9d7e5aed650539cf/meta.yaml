@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/efb9c0045e5042ff9d7e5aed650539cf/artifacts
+end_time: 1690310775202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb9c0045e5042ff9d7e5aed650539cf
+run_name: intrigued-mule-676
+run_uuid: efb9c0045e5042ff9d7e5aed650539cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310774239
+status: 3
+tags: []
+user_id: cedrix

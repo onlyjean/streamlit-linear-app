@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b85a232478324502ab03b54719321149/artifacts
+end_time: 1690381408516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b85a232478324502ab03b54719321149
+run_name: popular-shark-579
+run_uuid: b85a232478324502ab03b54719321149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381407404
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/69aab12d50e04c2d95f56152a4ea6613/artifacts
+end_time: 1690313661929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69aab12d50e04c2d95f56152a4ea6613
+run_name: dazzling-wren-774
+run_uuid: 69aab12d50e04c2d95f56152a4ea6613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690313660938
+status: 3
+tags: []
+user_id: cedrix

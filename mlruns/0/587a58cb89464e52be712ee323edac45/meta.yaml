@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/587a58cb89464e52be712ee323edac45/artifacts
+end_time: 1690310145443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 587a58cb89464e52be712ee323edac45
+run_name: unique-moose-182
+run_uuid: 587a58cb89464e52be712ee323edac45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310143978
+status: 3
+tags: []
+user_id: cedrix

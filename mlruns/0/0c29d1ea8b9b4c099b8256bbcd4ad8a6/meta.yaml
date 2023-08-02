@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0c29d1ea8b9b4c099b8256bbcd4ad8a6/artifacts
+end_time: 1690381504815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c29d1ea8b9b4c099b8256bbcd4ad8a6
+run_name: intelligent-frog-462
+run_uuid: 0c29d1ea8b9b4c099b8256bbcd4ad8a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381503918
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cba3ef31c3c64f75a0aac1850ed857a3/artifacts
+end_time: 1690310780707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba3ef31c3c64f75a0aac1850ed857a3
+run_name: beautiful-snake-761
+run_uuid: cba3ef31c3c64f75a0aac1850ed857a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690310779725
+status: 3
+tags: []
+user_id: cedrix

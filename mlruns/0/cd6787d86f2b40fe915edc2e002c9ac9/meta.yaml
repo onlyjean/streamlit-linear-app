@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cd6787d86f2b40fe915edc2e002c9ac9/artifacts
+end_time: 1690389512256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6787d86f2b40fe915edc2e002c9ac9
+run_name: fortunate-vole-499
+run_uuid: cd6787d86f2b40fe915edc2e002c9ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389511306
+status: 3
+tags: []
+user_id: cedrix

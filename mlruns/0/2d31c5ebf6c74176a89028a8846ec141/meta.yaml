@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2d31c5ebf6c74176a89028a8846ec141/artifacts
+end_time: 1690314754990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d31c5ebf6c74176a89028a8846ec141
+run_name: sincere-pig-563
+run_uuid: 2d31c5ebf6c74176a89028a8846ec141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314754381
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c7643b9dd3a34d01ab9221f1ca3ba21c/artifacts
+end_time: 1690384013478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7643b9dd3a34d01ab9221f1ca3ba21c
+run_name: trusting-midge-591
+run_uuid: c7643b9dd3a34d01ab9221f1ca3ba21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384012317
+status: 3
+tags: []
+user_id: cedrix

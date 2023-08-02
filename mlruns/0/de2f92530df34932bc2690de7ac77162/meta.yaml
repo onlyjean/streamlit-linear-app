@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/de2f92530df34932bc2690de7ac77162/artifacts
+end_time: 1690816164654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de2f92530df34932bc2690de7ac77162
+run_name: shivering-rat-559
+run_uuid: de2f92530df34932bc2690de7ac77162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816163588
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/bc75d0237bce4ae6a9861083336da33c/artifacts
+end_time: 1690822702620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc75d0237bce4ae6a9861083336da33c
+run_name: melodic-lamb-451
+run_uuid: bc75d0237bce4ae6a9861083336da33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690822701561
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5b29d843dc56409badbde2bcc5c4c5e7/artifacts
+end_time: 1690827254202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b29d843dc56409badbde2bcc5c4c5e7
+run_name: bright-elk-502
+run_uuid: 5b29d843dc56409badbde2bcc5c4c5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690827253023
+status: 3
+tags: []
+user_id: cedrix

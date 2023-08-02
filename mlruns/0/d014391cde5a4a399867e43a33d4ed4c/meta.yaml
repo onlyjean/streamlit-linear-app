@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d014391cde5a4a399867e43a33d4ed4c/artifacts
+end_time: 1690821036381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d014391cde5a4a399867e43a33d4ed4c
+run_name: dashing-cat-877
+run_uuid: d014391cde5a4a399867e43a33d4ed4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690821036052
+status: 3
+tags: []
+user_id: cedrix

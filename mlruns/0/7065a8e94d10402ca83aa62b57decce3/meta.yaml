@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7065a8e94d10402ca83aa62b57decce3/artifacts
+end_time: 1690816754022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7065a8e94d10402ca83aa62b57decce3
+run_name: useful-flea-967
+run_uuid: 7065a8e94d10402ca83aa62b57decce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816754012
+status: 3
+tags: []
+user_id: cedrix

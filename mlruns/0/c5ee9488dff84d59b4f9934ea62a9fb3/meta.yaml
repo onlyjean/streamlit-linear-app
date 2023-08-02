@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/c5ee9488dff84d59b4f9934ea62a9fb3/artifacts
+end_time: 1690299580670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ee9488dff84d59b4f9934ea62a9fb3
+run_name: bald-fish-38
+run_uuid: c5ee9488dff84d59b4f9934ea62a9fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690299579491
+status: 3
+tags: []
+user_id: cedrix

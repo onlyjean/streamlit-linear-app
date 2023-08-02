@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6063c71ae5e84e25a0aa32a79b4734cf/artifacts
+end_time: 1690816217931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6063c71ae5e84e25a0aa32a79b4734cf
+run_name: shivering-fish-916
+run_uuid: 6063c71ae5e84e25a0aa32a79b4734cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816217921
+status: 3
+tags: []
+user_id: cedrix

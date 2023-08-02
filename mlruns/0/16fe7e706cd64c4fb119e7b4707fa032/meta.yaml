@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/16fe7e706cd64c4fb119e7b4707fa032/artifacts
+end_time: 1690314226596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16fe7e706cd64c4fb119e7b4707fa032
+run_name: luxuriant-sloth-930
+run_uuid: 16fe7e706cd64c4fb119e7b4707fa032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314226588
+status: 3
+tags: []
+user_id: cedrix

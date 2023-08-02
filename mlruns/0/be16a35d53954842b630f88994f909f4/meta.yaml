@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/be16a35d53954842b630f88994f909f4/artifacts
+end_time: 1690816176604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be16a35d53954842b630f88994f909f4
+run_name: glamorous-bear-569
+run_uuid: be16a35d53954842b630f88994f909f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816176593
+status: 3
+tags: []
+user_id: cedrix

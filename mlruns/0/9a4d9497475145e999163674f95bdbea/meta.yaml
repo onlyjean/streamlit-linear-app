@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9a4d9497475145e999163674f95bdbea/artifacts
+end_time: 1690314182593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a4d9497475145e999163674f95bdbea
+run_name: dapper-yak-805
+run_uuid: 9a4d9497475145e999163674f95bdbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314181599
+status: 3
+tags: []
+user_id: cedrix

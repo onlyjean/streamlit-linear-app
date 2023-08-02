@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/d6d1ca1707db4a96ae233118d876cee9/artifacts
+end_time: 1690902316339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d1ca1707db4a96ae233118d876cee9
+run_name: nebulous-gull-798
+run_uuid: d6d1ca1707db4a96ae233118d876cee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690902315025
+status: 3
+tags: []
+user_id: cedrix

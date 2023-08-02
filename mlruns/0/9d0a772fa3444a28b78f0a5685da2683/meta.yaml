@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9d0a772fa3444a28b78f0a5685da2683/artifacts
+end_time: 1690902221139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d0a772fa3444a28b78f0a5685da2683
+run_name: sassy-crow-534
+run_uuid: 9d0a772fa3444a28b78f0a5685da2683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690902219721
+status: 3
+tags: []
+user_id: cedrix

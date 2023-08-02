@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/81ece057759047e8ac59ae998fea9f4e/artifacts
+end_time: 1690386330526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81ece057759047e8ac59ae998fea9f4e
+run_name: adaptable-hen-251
+run_uuid: 81ece057759047e8ac59ae998fea9f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690386329647
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/864143caea0c4b2eac8ada23982501ee/artifacts
+end_time: 1690921725215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 864143caea0c4b2eac8ada23982501ee
+run_name: monumental-squid-516
+run_uuid: 864143caea0c4b2eac8ada23982501ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690921724145
+status: 3
+tags: []
+user_id: cedrix

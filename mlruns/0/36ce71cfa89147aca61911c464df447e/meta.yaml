@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/36ce71cfa89147aca61911c464df447e/artifacts
+end_time: 1690982642198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ce71cfa89147aca61911c464df447e
+run_name: worried-frog-301
+run_uuid: 36ce71cfa89147aca61911c464df447e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690982640728
+status: 3
+tags: []
+user_id: cedrix

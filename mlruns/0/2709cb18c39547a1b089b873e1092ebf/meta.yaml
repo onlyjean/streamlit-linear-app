@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2709cb18c39547a1b089b873e1092ebf/artifacts
+end_time: 1690825444869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2709cb18c39547a1b089b873e1092ebf
+run_name: dapper-crane-483
+run_uuid: 2709cb18c39547a1b089b873e1092ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825443894
+status: 3
+tags: []
+user_id: cedrix

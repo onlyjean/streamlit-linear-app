@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5ad73173c6ea4ba0ac4d148a447bb068/artifacts
+end_time: 1690823557705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad73173c6ea4ba0ac4d148a447bb068
+run_name: rogue-shoat-881
+run_uuid: 5ad73173c6ea4ba0ac4d148a447bb068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823556773
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/dc006ac3a9f448758d07eee4cdbf2b42/artifacts
+end_time: 1690390364348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc006ac3a9f448758d07eee4cdbf2b42
+run_name: agreeable-gull-526
+run_uuid: dc006ac3a9f448758d07eee4cdbf2b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690390363182
+status: 3
+tags: []
+user_id: cedrix

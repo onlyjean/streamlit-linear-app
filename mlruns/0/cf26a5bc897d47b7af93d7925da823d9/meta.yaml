@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cf26a5bc897d47b7af93d7925da823d9/artifacts
+end_time: 1690898780720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf26a5bc897d47b7af93d7925da823d9
+run_name: gregarious-fish-54
+run_uuid: cf26a5bc897d47b7af93d7925da823d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690898779598
+status: 3
+tags: []
+user_id: cedrix

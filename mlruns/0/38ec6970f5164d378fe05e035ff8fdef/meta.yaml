@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/38ec6970f5164d378fe05e035ff8fdef/artifacts
+end_time: 1690389951817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38ec6970f5164d378fe05e035ff8fdef
+run_name: bemused-rat-911
+run_uuid: 38ec6970f5164d378fe05e035ff8fdef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389950950
+status: 3
+tags: []
+user_id: cedrix

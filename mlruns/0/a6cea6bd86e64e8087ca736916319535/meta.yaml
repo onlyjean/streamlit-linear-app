@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a6cea6bd86e64e8087ca736916319535/artifacts
+end_time: 1690816176165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6cea6bd86e64e8087ca736916319535
+run_name: valuable-bee-789
+run_uuid: a6cea6bd86e64e8087ca736916319535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816175517
+status: 3
+tags: []
+user_id: cedrix

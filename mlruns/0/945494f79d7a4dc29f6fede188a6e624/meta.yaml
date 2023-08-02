@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/945494f79d7a4dc29f6fede188a6e624/artifacts
+end_time: 1690385792321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 945494f79d7a4dc29f6fede188a6e624
+run_name: welcoming-lark-525
+run_uuid: 945494f79d7a4dc29f6fede188a6e624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385791388
+status: 3
+tags: []
+user_id: cedrix

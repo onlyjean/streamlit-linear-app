@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/7f8e26098f9a41188ea85b2b68fc5b0f/artifacts
+end_time: 1690389099754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f8e26098f9a41188ea85b2b68fc5b0f
+run_name: unruly-shoat-752
+run_uuid: 7f8e26098f9a41188ea85b2b68fc5b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389098833
+status: 3
+tags: []
+user_id: cedrix

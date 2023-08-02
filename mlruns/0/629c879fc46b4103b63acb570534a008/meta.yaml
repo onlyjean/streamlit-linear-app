@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/629c879fc46b4103b63acb570534a008/artifacts
+end_time: 1690898766884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 629c879fc46b4103b63acb570534a008
+run_name: righteous-ram-953
+run_uuid: 629c879fc46b4103b63acb570534a008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690898765526
+status: 3
+tags: []
+user_id: cedrix

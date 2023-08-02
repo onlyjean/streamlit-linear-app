@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/8855501fd7864369a56f5d90eaff9829/artifacts
+end_time: 1690383807856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8855501fd7864369a56f5d90eaff9829
+run_name: exultant-fowl-744
+run_uuid: 8855501fd7864369a56f5d90eaff9829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690383806885
+status: 3
+tags: []
+user_id: cedrix

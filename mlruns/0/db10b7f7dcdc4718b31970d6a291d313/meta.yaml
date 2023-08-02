@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/db10b7f7dcdc4718b31970d6a291d313/artifacts
+end_time: 1690305719443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db10b7f7dcdc4718b31970d6a291d313
+run_name: legendary-fawn-620
+run_uuid: db10b7f7dcdc4718b31970d6a291d313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690305718017
+status: 3
+tags: []
+user_id: cedrix

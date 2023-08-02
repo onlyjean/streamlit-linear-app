@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/471fd598c39d448eb54bf366e90c6c9b/artifacts
+end_time: 1690385240910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 471fd598c39d448eb54bf366e90c6c9b
+run_name: mercurial-rook-599
+run_uuid: 471fd598c39d448eb54bf366e90c6c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385240902
+status: 3
+tags: []
+user_id: cedrix

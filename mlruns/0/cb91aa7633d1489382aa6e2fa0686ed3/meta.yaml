@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/cb91aa7633d1489382aa6e2fa0686ed3/artifacts
+end_time: 1690904526919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb91aa7633d1489382aa6e2fa0686ed3
+run_name: bright-smelt-285
+run_uuid: cb91aa7633d1489382aa6e2fa0686ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690904525741
+status: 3
+tags: []
+user_id: cedrix

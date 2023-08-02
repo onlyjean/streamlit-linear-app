@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/63044c78d5b845d3862d3c0ae47420c3/artifacts
+end_time: 1690837658833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63044c78d5b845d3862d3c0ae47420c3
+run_name: bright-ray-645
+run_uuid: 63044c78d5b845d3862d3c0ae47420c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690837657838
+status: 3
+tags: []
+user_id: cedrix

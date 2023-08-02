@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/0dd1c7bcfe784d6ab78d449d53fa93b0/artifacts
+end_time: 1690389646352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd1c7bcfe784d6ab78d449d53fa93b0
+run_name: lyrical-hound-440
+run_uuid: 0dd1c7bcfe784d6ab78d449d53fa93b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389645486
+status: 3
+tags: []
+user_id: cedrix

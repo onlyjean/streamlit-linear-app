@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3f528d9031334632a6c39f7d70639c13/artifacts
+end_time: 1690385240751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f528d9031334632a6c39f7d70639c13
+run_name: burly-wren-436
+run_uuid: 3f528d9031334632a6c39f7d70639c13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690385239970
+status: 3
+tags: []
+user_id: cedrix

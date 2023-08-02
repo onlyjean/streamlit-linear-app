@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/24d8554502344219ae460aafe6069e5a/artifacts
+end_time: 1690965511972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d8554502344219ae460aafe6069e5a
+run_name: luminous-panda-443
+run_uuid: 24d8554502344219ae460aafe6069e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690965511949
+status: 3
+tags: []
+user_id: cedrix

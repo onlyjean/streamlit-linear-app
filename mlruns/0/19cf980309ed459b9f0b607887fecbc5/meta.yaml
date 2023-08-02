@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/19cf980309ed459b9f0b607887fecbc5/artifacts
+end_time: 1690904912659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19cf980309ed459b9f0b607887fecbc5
+run_name: nosy-hen-636
+run_uuid: 19cf980309ed459b9f0b607887fecbc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690904911157
+status: 3
+tags: []
+user_id: cedrix

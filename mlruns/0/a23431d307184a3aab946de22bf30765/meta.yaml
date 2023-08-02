@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/a23431d307184a3aab946de22bf30765/artifacts
+end_time: 1690389947082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23431d307184a3aab946de22bf30765
+run_name: upbeat-dove-284
+run_uuid: a23431d307184a3aab946de22bf30765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690389946116
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5271b2176e0c408288c940b39f044035/artifacts
+end_time: 1690314804802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5271b2176e0c408288c940b39f044035
+run_name: welcoming-crow-245
+run_uuid: 5271b2176e0c408288c940b39f044035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314804795
+status: 4
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/767b7105ba9044ecafc23beb2917f18c/artifacts
+end_time: 1690823073593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 767b7105ba9044ecafc23beb2917f18c
+run_name: angry-crow-612
+run_uuid: 767b7105ba9044ecafc23beb2917f18c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823072640
+status: 3
+tags: []
+user_id: cedrix

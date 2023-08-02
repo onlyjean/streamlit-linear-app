@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/201297ca53d2461ca8b4fe4154b016e7/artifacts
+end_time: 1690384017601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 201297ca53d2461ca8b4fe4154b016e7
+run_name: salty-loon-725
+run_uuid: 201297ca53d2461ca8b4fe4154b016e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690384016695
+status: 3
+tags: []
+user_id: cedrix

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3718d18ee7234a7698c464f2c2b24079/artifacts
+end_time: 1690825750541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3718d18ee7234a7698c464f2c2b24079
+run_name: burly-fish-168
+run_uuid: 3718d18ee7234a7698c464f2c2b24079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825750525
+status: 4
+tags: []
+user_id: cedrix

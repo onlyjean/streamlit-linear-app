@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/35a127d2c68d45e5a737c01c83f23902/artifacts
+end_time: 1690823132285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35a127d2c68d45e5a737c01c83f23902
+run_name: traveling-shark-110
+run_uuid: 35a127d2c68d45e5a737c01c83f23902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823132275
+status: 3
+tags: []
+user_id: cedrix

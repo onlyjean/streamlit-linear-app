@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/b1cde072b7f6486e89829f1af7963c2d/artifacts
+end_time: 1690891857858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1cde072b7f6486e89829f1af7963c2d
+run_name: bustling-midge-525
+run_uuid: b1cde072b7f6486e89829f1af7963c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690891850795
+status: 3
+tags: []
+user_id: cedrix

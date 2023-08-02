@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/e53d6cfe21374af3b9d893838bcc4c42/artifacts
+end_time: 1690314756248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e53d6cfe21374af3b9d893838bcc4c42
+run_name: traveling-shrike-675
+run_uuid: e53d6cfe21374af3b9d893838bcc4c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690314755399
+status: 3
+tags: []
+user_id: cedrix

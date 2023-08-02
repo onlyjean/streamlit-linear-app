@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5b0c631553934745a5830f31e9f9409e/artifacts
+end_time: 1690825401801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0c631553934745a5830f31e9f9409e
+run_name: capricious-yak-634
+run_uuid: 5b0c631553934745a5830f31e9f9409e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690825400881
+status: 3
+tags: []
+user_id: cedrix

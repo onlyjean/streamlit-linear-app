@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/6ed3133558b1425599aa41fadb0f9b6d/artifacts
+end_time: 1690826827373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ed3133558b1425599aa41fadb0f9b6d
+run_name: upset-sow-12
+run_uuid: 6ed3133558b1425599aa41fadb0f9b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826826452
+status: 3
+tags: []
+user_id: cedrix

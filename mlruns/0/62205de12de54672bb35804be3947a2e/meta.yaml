@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/62205de12de54672bb35804be3947a2e/artifacts
+end_time: 1690826197246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62205de12de54672bb35804be3947a2e
+run_name: bold-asp-488
+run_uuid: 62205de12de54672bb35804be3947a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690826196195
+status: 3
+tags: []
+user_id: cedrix

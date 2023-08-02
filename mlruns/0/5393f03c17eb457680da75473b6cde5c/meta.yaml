@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/5393f03c17eb457680da75473b6cde5c/artifacts
+end_time: 1690823137813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5393f03c17eb457680da75473b6cde5c
+run_name: angry-carp-110
+run_uuid: 5393f03c17eb457680da75473b6cde5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690823137802
+status: 3
+tags: []
+user_id: cedrix

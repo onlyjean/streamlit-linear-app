@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/de751e130de843a388d6f8bd5d51ed00/artifacts
+end_time: 1690381807338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de751e130de843a388d6f8bd5d51ed00
+run_name: amusing-ant-689
+run_uuid: de751e130de843a388d6f8bd5d51ed00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690381806433
+status: 3
+tags: []
+user_id: cedrix

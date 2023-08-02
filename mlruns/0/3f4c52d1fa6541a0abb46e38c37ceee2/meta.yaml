@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3f4c52d1fa6541a0abb46e38c37ceee2/artifacts
+end_time: 1690816191539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f4c52d1fa6541a0abb46e38c37ceee2
+run_name: dashing-worm-152
+run_uuid: 3f4c52d1fa6541a0abb46e38c37ceee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690816191529
+status: 3
+tags: []
+user_id: cedrix
