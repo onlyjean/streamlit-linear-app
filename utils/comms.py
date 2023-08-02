@@ -3,10 +3,7 @@ import pandas as pd
 import boto3
 import os
 from io import StringIO
-from dotenv import load_dotenv
 
-
-load_dotenv()  # take environment variables from .env.
 
 # AWS S3 comment-section bucket
 comment_bucket = 'comment-section-st'
