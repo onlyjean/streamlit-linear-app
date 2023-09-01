@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
 import streamlit as st
 import uuid
 import numpy as np
@@ -22,7 +21,7 @@ from datetime import datetime
 from utils import  comms  
 
 
-# Initialize session state for authentication
+# Initialise session state for authentication
 if 'is_authenticated' not in st.session_state:
     st.session_state['is_authenticated'] = False
 
@@ -92,19 +91,17 @@ def add_feature(df, feature, window):
         df['%D'].fillna((df['%D'].mean()), inplace=True)
     return df
 
- 
+# Train model function
 def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, opacity, features, stock_name):
     try:
     
-        # Apply shift operation
         df['Prediction'] = df['adj_close'].shift(-future_days)
 
         df_copy = df.copy()
 
-        # Create X_predict using the shifted copy
         X_predict = np.array(df_copy.drop(['Prediction'], 1))[-future_days:]
         X_predict = np.array(df.drop(['Prediction'], 1))[-future_days:]
-        # print(X_predict)  
+      
 
         X = np.array(df.drop(['Prediction'], axis=1))
         X = X[:-future_days]
@@ -114,6 +111,8 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size)
         model = LinearRegression()
 
+
+        # Adding MLflow to for MLOps
         with mlflow.start_run():
             mlflow.log_param("future_days", future_days)
             mlflow.log_param("test_size", test_size)
@@ -127,7 +126,6 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
             rmse = math.sqrt(mean_squared_error(y_test, model.predict(X_test)))
             mse = mean_squared_error(y_test, model.predict(X_test))
             mape = mean_absolute_percentage_error(y_test, model.predict(X_test))
-
             mlflow.log_metric("RMSE", rmse)
             mlflow.log_metric("MSE", mse)
             mlflow.log_metric("MAPE", mape)
@@ -139,17 +137,12 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
             mlflow.log_param("opacity", opacity)
             mlflow.log_param("Features", features)
             mlflow.log_param("Stock Name", stock_name)
-
-
-            # Tag the run with the user ID
             mlflow.set_tag("user_id", st.session_state.user_id)
 
         model.fit(X_train, y_train)
 
         return model, X_train, X_test, y_train, y_test, X_predict
 
-
-        # Generate prediction
         linear_model_predict_prediction = model.predict(X_predict)
         linear_model_real_prediction = model.predict(np.array(df.drop(['Prediction'], 1)))
 
@@ -160,7 +153,7 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
     finally:
         mlflow.end_run()
 
-
+# Evaluate the model
 def evaluate_model(model, X_test, y_test, metric):
     predictions = model.predict(X_test)
     if metric == 'rmse':
@@ -172,17 +165,15 @@ def evaluate_model(model, X_test, y_test, metric):
     else:
         return None
 
+# Plot the results
 def plot_results(df, linear_model_real_prediction, linear_model_predict_prediction, display_at, future_days, opacity):
     predicted_dates = [df.index[-1] + timedelta(days=x) for x in range(1, future_days+1)]
     fig, ax = plt.subplots(figsize=(40, 20))
-
-    # Change the background color to black
     plt.rcParams['figure.facecolor'] = 'black'
     ax.set_facecolor('black')
     ax.tick_params(colors='white')
     ax.xaxis.label.set_color('white')
     ax.yaxis.label.set_color('white')
-
     ax.plot(df.index[display_at:], linear_model_real_prediction[display_at:], label='Linear Prediction', color='magenta', alpha=opacity, linewidth=5.0)
     ax.plot(predicted_dates, linear_model_predict_prediction, label='Forecast', color='aqua', alpha=opacity, linewidth=5.0)
     ax.plot(df.index[display_at:], df['adj_close'][display_at:], label='Actual', color='lightgreen', linewidth=5.0)
@@ -196,16 +187,10 @@ def plot_results(df, linear_model_real_prediction, linear_model_predict_predicti
         ax.plot(df.index[display_at:], df['%K'][display_at:], label='%K', color='yellow', alpha=opacity, linewidth=10.0)
     if '%D' in df.columns:
         ax.plot(df.index[display_at:], df['%D'][display_at:], label='%D', color='blue', alpha=opacity, linewidth=10.0)
-
-
-    # Format the x-axis dates
+    
     date_format = DateFormatter("%Y-%m-%d")
-
-
-    # Format the x-axis dates
     date_format = DateFormatter("%Y-%m-%d")
     ax.xaxis.set_major_formatter(date_format)
-
     plt.legend(prop={'size': 35})  #
     plt.xticks(fontsize=30)  
     plt.yticks(fontsize=30)  
@@ -226,7 +211,6 @@ def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA
         st.header("Data")
         # Preprocess data
         df = preprocess_data(df)
-        #st.write(df.shape)
         st.write(df)
         
 
@@ -273,34 +257,32 @@ def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA
 # Streamlit application
 def main():
     st.set_option('deprecation.showPyplotGlobalUse', False)
-   
 
-    # Authentication block
-    # if not st.session_state['is_authenticated']:
-    #     st.markdown("<h1 style='text-align: center;'>Login</h1>", unsafe_allow_html=True)
-    #     email = st.text_input("Email Address")
-    #     password = st.text_input("Password", type="password")
-    #     if st.button("Login"):
-    #         token = authenticate(email, password)
-    #         if token:
-    #             st.session_state['token'] = token
-    #             st.session_state['is_authenticated'] = True  # Set the session state
-    #             st.success("Logged in")
-    #         else:
-    #             st.warning("Failed to log in: Please try again or return to https://main.dsxr40yvbyhag.amplifyapp.com to sign up")
-    #     return  # Return early if not authenticated
+    # Check for authentication
+    if not st.session_state['is_authenticated']:
+        st.markdown("<h1 style='text-align: center;'>Login</h1>", unsafe_allow_html=True)
+        email = st.text_input("Email Address")
+        password = st.text_input("Password", type="password")
+        if st.button("Login"):
+            token = authenticate(email, password)
+            if token:
+                st.session_state['token'] = token
+                st.session_state['is_authenticated'] = True  # Set the session state
+                st.success("Logged in")
+            else:
+                st.warning("Failed to log in: Please try again or return to https://main.dsxr40yvbyhag.amplifyapp.com to sign up")
+        return 
     
 
     # Generate a unique ID for the user session
     if "user_id" not in st.session_state:
         st.session_state.user_id = str(uuid.uuid4())
       
-    # Display the image using Streamlit with HTML to center it
     col1, col2, col3 = st.sidebar.columns([1,2,1])
     with col1:
         st.image("assets/futurstox-high-resolution-logo-white-on-transparent-background.png", width=250)
 
-
+    # Title
     st.title('Stock Price Prediction with Linear Regression')
 
     st.sidebar.markdown('# Parameters')
@@ -409,7 +391,6 @@ def main():
             st.table(previous_metrics)
 
 
-
     # Display explanations on the main page
     if explanations:
         st.markdown('## Explanations')
@@ -430,6 +411,8 @@ def main():
     file_name = 'linear_regression_comment/comments.csv'
     comments = comms.collect(s3, comment_bucket, file_name)
 
+
+    # Add comment feature
     with st.expander("💬 Open comments"):
         # Show comments
         st.write("**Comments:**")
