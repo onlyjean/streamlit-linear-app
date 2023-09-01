@@ -19,7 +19,30 @@ import math
 import mlflow
 import mlflow.sklearn
 from datetime import datetime
-from utils import  comms  # Make sure you have this utils module with db.py file
+from utils import  comms  
+
+
+# Initialize session state for authentication
+if 'is_authenticated' not in st.session_state:
+    st.session_state['is_authenticated'] = False
+
+
+# Function to authenticate user using AWS Cognito
+def authenticate(email, password):
+    client = boto3.client('cognito-idp')
+    try:
+        resp = client.initiate_auth(
+            AuthFlow='USER_PASSWORD_AUTH',
+            AuthParameters={
+                'USERNAME': email,
+                'PASSWORD': password,
+            },
+            ClientId='ncv5lum49vqnk7m505e8pfvce' 
+        )
+        return resp.get("AuthenticationResult").get("IdToken")
+    except Exception as e:
+        st.warning("Failed to authenticate")
+        return None
 
 
 
@@ -31,14 +54,13 @@ stock_bucket = 'raw-stock-price'
 # AWS S3 comment-section bucket
 comment_bucket = 'comment-section-st'
 
+#Function to add space in Streamlit layout.
 def space(n: int):
-    """Function to add space in Streamlit layout."""
     for _ in range(n):
         st.text('')
 
 
 # Load data from S3
-  
 def load_data_from_s3(stock_name):
     file_name = f'yhoofinance-daily-historical-data/{stock_name}_daily_data.csv'
     s3 = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key)   
@@ -46,13 +68,13 @@ def load_data_from_s3(stock_name):
     df = pd.read_csv(obj['Body'])
     return df
 
-
+# Data preprocessing 
 def preprocess_data(df):
     df['date'] = pd.to_datetime(df['date'])
     df.set_index('date', inplace=True)
-    #df.dropna(inplace=True)  # Drop rows with missing data
     return df
 
+# Add features to the data
 def add_feature(df, feature, window):
     if feature == 'MA':
         close_col = df['adj_close']
@@ -71,7 +93,7 @@ def add_feature(df, feature, window):
     return df
 
  
-def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, alpha, features, stock_name):
+def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, opacity, features, stock_name):
     try:
     
         # Apply shift operation
@@ -114,7 +136,7 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, a
             mlflow.log_param("MA", ma_window)
             mlflow.log_param("EMA", ema_window)
             mlflow.log_param("STO", sto_window)
-            mlflow.log_param("Alpha", alpha)
+            mlflow.log_param("opacity", opacity)
             mlflow.log_param("Features", features)
             mlflow.log_param("Stock Name", stock_name)
 
@@ -150,7 +172,7 @@ def evaluate_model(model, X_test, y_test, metric):
     else:
         return None
 
-def plot_results(df, linear_model_real_prediction, linear_model_predict_prediction, display_at, future_days, alpha):
+def plot_results(df, linear_model_real_prediction, linear_model_predict_prediction, display_at, future_days, opacity):
     predicted_dates = [df.index[-1] + timedelta(days=x) for x in range(1, future_days+1)]
     fig, ax = plt.subplots(figsize=(40, 20))
 
@@ -161,19 +183,19 @@ def plot_results(df, linear_model_real_prediction, linear_model_predict_predicti
     ax.xaxis.label.set_color('white')
     ax.yaxis.label.set_color('white')
 
-    ax.plot(df.index[display_at:], linear_model_real_prediction[display_at:], label='Linear Prediction', color='magenta', alpha=alpha, linewidth=5.0)
-    ax.plot(predicted_dates, linear_model_predict_prediction, label='Forecast', color='aqua', alpha=alpha, linewidth=5.0)
+    ax.plot(df.index[display_at:], linear_model_real_prediction[display_at:], label='Linear Prediction', color='magenta', alpha=opacity, linewidth=5.0)
+    ax.plot(predicted_dates, linear_model_predict_prediction, label='Forecast', color='aqua', alpha=opacity, linewidth=5.0)
     ax.plot(df.index[display_at:], df['adj_close'][display_at:], label='Actual', color='lightgreen', linewidth=5.0)
 
     # Plot MA, EMA, and STO if they exist in the dataframe
     if 'MA' in df.columns:
-        ax.plot(df.index[display_at:], df['MA'][display_at:], label='MA', color='white', alpha=alpha, linewidth=10.0)
+        ax.plot(df.index[display_at:], df['MA'][display_at:], label='MA', color='white', alpha=opacity, linewidth=10.0)
     if 'EMA' in df.columns:
-        ax.plot(df.index[display_at:], df['EMA'][display_at:], label='EMA', color='red', alpha=alpha, linewidth=10.0)
+        ax.plot(df.index[display_at:], df['EMA'][display_at:], label='EMA', color='red', alpha=opacity, linewidth=10.0)
     if '%K' in df.columns:
-        ax.plot(df.index[display_at:], df['%K'][display_at:], label='%K', color='yellow', alpha=alpha, linewidth=10.0)
+        ax.plot(df.index[display_at:], df['%K'][display_at:], label='%K', color='yellow', alpha=opacity, linewidth=10.0)
     if '%D' in df.columns:
-        ax.plot(df.index[display_at:], df['%D'][display_at:], label='%D', color='blue', alpha=alpha, linewidth=10.0)
+        ax.plot(df.index[display_at:], df['%D'][display_at:], label='%D', color='blue', alpha=opacity, linewidth=10.0)
 
 
     # Format the x-axis dates
@@ -184,13 +206,14 @@ def plot_results(df, linear_model_real_prediction, linear_model_predict_predicti
     date_format = DateFormatter("%Y-%m-%d")
     ax.xaxis.set_major_formatter(date_format)
 
-    plt.legend(prop={'size': 35})  # Increase the size of the legend
-    plt.xticks(fontsize=30)  # Increase x-axis font size
-    plt.yticks(fontsize=30)  # Increase y-axis font size
+    plt.legend(prop={'size': 35})  #
+    plt.xticks(fontsize=30)  
+    plt.yticks(fontsize=30)  
     plt.show()
 
 
-def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA','close', 'EMA', 'STO'], test_size=0.5, future_days=30, rmse=True, mse=True, mape=True, display_at=0, alpha=0.5):
+# Function to run the model
+def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA','close', 'EMA', 'STO'], test_size=0.5, future_days=30, rmse=True, mse=True, mape=True, display_at=0, opacity=0.5):
     model, evaluations, df = None, None, None
 
     try:
@@ -220,7 +243,7 @@ def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA
                 df = add_feature(df, feature, feature_windows[feature])
             #st.write(df)
 
-        model, X_train, X_test, y_train, y_test, X_predict = train_model(df, future_days, test_size, ma_window, ema_window, sto_window, alpha, features, stock_name)
+        model, X_train, X_test, y_train, y_test, X_predict = train_model(df, future_days, test_size, ma_window, ema_window, sto_window, opacity, features, stock_name)
         st.write(f"Trained model: {model}")  
 
         # Train model and evaluate
@@ -238,7 +261,7 @@ def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA
         linear_model_predict_prediction = model.predict(X_predict)
 
         # Plot
-        plot_results(df, linear_model_real_prediction, linear_model_predict_prediction, display_at, future_days, alpha)
+        plot_results(df, linear_model_real_prediction, linear_model_predict_prediction, display_at, future_days, opacity)
 
 
     except Exception as e:
@@ -246,8 +269,27 @@ def run_model(stock_name, ma_window=5, ema_window=5, sto_window=5, features=['MA
 
     return model, evaluations, df
 
+
+# Streamlit application
 def main():
     st.set_option('deprecation.showPyplotGlobalUse', False)
+   
+
+    # Authentication block
+    # if not st.session_state['is_authenticated']:
+    #     st.markdown("<h1 style='text-align: center;'>Login</h1>", unsafe_allow_html=True)
+    #     email = st.text_input("Email Address")
+    #     password = st.text_input("Password", type="password")
+    #     if st.button("Login"):
+    #         token = authenticate(email, password)
+    #         if token:
+    #             st.session_state['token'] = token
+    #             st.session_state['is_authenticated'] = True  # Set the session state
+    #             st.success("Logged in")
+    #         else:
+    #             st.warning("Failed to log in: Please try again or return to https://main.dsxr40yvbyhag.amplifyapp.com to sign up")
+    #     return  # Return early if not authenticated
+    
 
     # Generate a unique ID for the user session
     if "user_id" not in st.session_state:
@@ -280,14 +322,14 @@ def main():
         ema_window = st.sidebar.slider('Exponential Moving Avg. -- Window Size', 1, 100, 50, help="Select the window size for the exponential moving average.")
         sto_window = st.sidebar.slider('Stochastic Oscillator -- Window Size', 1, 100, 50, help="Select the window size for the stochastic oscillator.")
         test_size = st.sidebar.slider('Test Set Size', 0.1, 0.9, 0.2, help="Select the size of the test set.")
-        alpha = st.sidebar.slider('Alpha', 0.1, 1.0, 0.5, help="Select the alpha value for the model.")
+        opacity = st.sidebar.slider('Opacity', 0.1, 1.0, 0.5, help="Select the opacity value for the model.")
         features = st.sidebar.multiselect('Features', options=['MA', 'EMA', 'STO', 'adj_close'], default=['adj_close'], help="Select the features you want to include in the model.")
     else:
         ma_window = 50
         ema_window = 50
         sto_window = 50
         test_size = 0.2
-        alpha = 0.5
+        opacity = 0.5
         features = ['adj_close']
 
     if st.sidebar.button('Train Model'):
@@ -305,7 +347,7 @@ def main():
             mse=mse,
             mape=mape,
             display_at=display_at,
-            alpha=alpha
+            opacity=opacity
         )
 
 
@@ -329,8 +371,8 @@ def main():
             st.pyplot()
         else:
             st.error('An error occurred during model training')
-
-
+    
+    # Compare with previous performance
     if st.sidebar.button('Compare with Previous Performance'):
         runs = mlflow.search_runs(filter_string=f"tags.user_id = '{st.session_state.user_id}'")
         if len(runs) < 2:
@@ -376,7 +418,6 @@ def main():
         st.markdown('- **MSE (Mean Squared Error)**: Similar to RMSE, but without taking the square root. This means larger errors are more heavily penalized.')
         st.markdown('- **MAPE (Mean Absolute Percentage Error)**: The average of the absolute percentage differences between the predicted and actual values. It gives an idea of the error rate in terms of the actual values.')
         if advanced_settings:
-            st.markdown('**Alpha**: This is a value that helps determine how much weight the model gives to recent data points. A smaller alpha means the model considers older data more heavily, while a larger alpha means the model focuses more on recent data.')
             st.markdown('**Window Size**: This is the number of consecutive data points used to calculate the feature. For example, if the window size is 5, the feature for the current day will be calculated using the data from the current day and the 4 previous days:')
             st.markdown('- **Moving Average**: This is the average stock price over the specified window of days. It helps to smooth out price fluctuations and highlight the overall trend.')
             st.markdown('- **Exponential Moving Average Window Size**: Similar to the moving average, but it gives more weight to recent prices. This makes it react more quickly to price changes..')

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/f89eb94f89744db5b7280263540da569/artifacts
+end_time: 1693588676960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f89eb94f89744db5b7280263540da569
+run_name: upset-tern-241
+run_uuid: f89eb94f89744db5b7280263540da569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693588675514
+status: 3
+tags: []
+user_id: cedrix

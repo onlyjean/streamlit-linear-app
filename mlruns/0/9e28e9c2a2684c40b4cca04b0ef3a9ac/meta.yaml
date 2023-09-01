@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/9e28e9c2a2684c40b4cca04b0ef3a9ac/artifacts
+end_time: 1693588658910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e28e9c2a2684c40b4cca04b0ef3a9ac
+run_name: puzzled-fox-616
+run_uuid: 9e28e9c2a2684c40b4cca04b0ef3a9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693588657601
+status: 3
+tags: []
+user_id: cedrix

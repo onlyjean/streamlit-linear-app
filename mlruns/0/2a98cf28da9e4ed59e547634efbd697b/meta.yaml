@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/2a98cf28da9e4ed59e547634efbd697b/artifacts
+end_time: 1693588667080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a98cf28da9e4ed59e547634efbd697b
+run_name: peaceful-penguin-14
+run_uuid: 2a98cf28da9e4ed59e547634efbd697b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693588665798
+status: 3
+tags: []
+user_id: cedrix

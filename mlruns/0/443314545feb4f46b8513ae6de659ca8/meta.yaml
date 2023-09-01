@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/443314545feb4f46b8513ae6de659ca8/artifacts
+end_time: 1693587166252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 443314545feb4f46b8513ae6de659ca8
+run_name: clumsy-ape-876
+run_uuid: 443314545feb4f46b8513ae6de659ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693587164390
+status: 3
+tags: []
+user_id: cedrix

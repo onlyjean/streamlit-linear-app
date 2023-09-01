@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cedrix/Linear_Regression/mlruns/0/3f5bf011a9ee480f894fac68f556a85b/artifacts
+end_time: 1693590212706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f5bf011a9ee480f894fac68f556a85b
+run_name: puzzled-bass-643
+run_uuid: 3f5bf011a9ee480f894fac68f556a85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693590211131
+status: 3
+tags: []
+user_id: cedrix
