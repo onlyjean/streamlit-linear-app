@@ -28,7 +28,7 @@ if 'is_authenticated' not in st.session_state:
 
 # Function to authenticate user using AWS Cognito
 def authenticate(email, password):
-    client = boto3.client('cognito-idp')
+    client = boto3.client('cognito-idp', region_name='eu-west-2')
     try:
         resp = client.initiate_auth(
             AuthFlow='USER_PASSWORD_AUTH',
