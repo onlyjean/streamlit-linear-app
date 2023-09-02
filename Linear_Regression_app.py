@@ -20,6 +20,10 @@ import mlflow.sklearn
 from datetime import datetime
 from utils import  comms  
 
+import logging  # Add this import for logging
+
+logging.basicConfig(level=logging.INFO)  # Configure logging
+
 
 # Initialise session state for authentication
 if 'is_authenticated' not in st.session_state:
@@ -38,8 +42,15 @@ def authenticate(email, password):
             },
             ClientId='ncv5lum49vqnk7m505e8pfvce' 
         )
+
+        logging.info(f"Authentication response: {resp}")  # Debugging statement
+
         return resp.get("AuthenticationResult").get("IdToken")
     except Exception as e:
+        st.warning(f"Failed to authenticate: {e}")  # Debugging statement
+
+        logging.info(f"Failed to authenticate: {e}")  # Debugging statement
+
         st.warning("Failed to authenticate")
         return None
 
@@ -260,6 +271,8 @@ def main():
 
     # Check for authentication
     if not st.session_state['is_authenticated']:
+        logging.info("User is not authenticated.")  # Debugging statement
+
         st.markdown("<h1 style='text-align: center;'>Login</h1>", unsafe_allow_html=True)
         email = st.text_input("Email Address")
         password = st.text_input("Password", type="password")
@@ -270,6 +283,9 @@ def main():
                 st.session_state['is_authenticated'] = True  # Set the session state
                 st.success("Logged in")
             else:
+                logging.info("User is authenticated.")  # Debugging statement
+
+
                 st.warning("Failed to log in: Please try again or return to https://main.dsxr40yvbyhag.amplifyapp.com to sign up")
         return 
     
@@ -442,4 +458,9 @@ def main():
 
 
 if __name__ == '__main__':
+    
+    
+    logging.info("Starting the application.")  # Debugging statement
+
+
     main()
