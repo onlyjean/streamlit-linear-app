@@ -20,11 +20,6 @@ import mlflow.sklearn
 from datetime import datetime
 from utils import  comms  
 
-import logging  # Add this import for logging
-
-logging.basicConfig(level=logging.INFO)  # Configure logging
-
-
 # Initialise session state for authentication
 if 'is_authenticated' not in st.session_state:
     st.session_state['is_authenticated'] = False
@@ -42,15 +37,8 @@ def authenticate(email, password):
             },
             ClientId='ncv5lum49vqnk7m505e8pfvce' 
         )
-
-        logging.info(f"Authentication response: {resp}")  # Debugging statement
-
         return resp.get("AuthenticationResult").get("IdToken")
     except Exception as e:
-        st.warning(f"Failed to authenticate: {e}")  # Debugging statement
-
-        logging.info(f"Failed to authenticate: {e}")  # Debugging statement
-
         st.warning("Failed to authenticate")
         return None
 
@@ -271,8 +259,6 @@ def main():
 
     # Check for authentication
     if not st.session_state['is_authenticated']:
-        logging.info("User is not authenticated.")  # Debugging statement
-
         st.markdown("<h1 style='text-align: center;'>Login</h1>", unsafe_allow_html=True)
         email = st.text_input("Email Address")
         password = st.text_input("Password", type="password")
@@ -283,9 +269,6 @@ def main():
                 st.session_state['is_authenticated'] = True  # Set the session state
                 st.success("Logged in")
             else:
-                logging.info("User is authenticated.")  # Debugging statement
-
-
                 st.warning("Failed to log in: Please try again or return to https://main.dsxr40yvbyhag.amplifyapp.com to sign up")
         return 
     
@@ -412,13 +395,13 @@ def main():
         st.markdown('## Explanations')
         st.markdown('**Evaluation Metrics**: Measures used to assess how well the model\'s predictions match the actual values.')
         st.markdown('- **RMSE (Root Mean Squared Error)**: A measure of the differences between the values predicted by the model and the actual values. Smaller values are better, with 0 being a perfect match.')
-        st.markdown('- **MSE (Mean Squared Error)**: Similar to RMSE, but without taking the square root. This means larger errors are more heavily penalized.')
+        st.markdown('- **MSE (Mean Squared Error)**: Similar to RMSE, but without taking the square root. This means larger errors are more heavily penalised.')
         st.markdown('- **MAPE (Mean Absolute Percentage Error)**: The average of the absolute percentage differences between the predicted and actual values. It gives an idea of the error rate in terms of the actual values.')
         if advanced_settings:
             st.markdown('**Window Size**: This is the number of consecutive data points used to calculate the feature. For example, if the window size is 5, the feature for the current day will be calculated using the data from the current day and the 4 previous days:')
             st.markdown('- **Moving Average**: This is the average stock price over the specified window of days. It helps to smooth out price fluctuations and highlight the overall trend.')
-            st.markdown('- **Exponential Moving Average Window Size**: Similar to the moving average, but it gives more weight to recent prices. This makes it react more quickly to price changes..')
-            st.markdown('- **Stochastic Oscillator Window Size**: This is a momentum indicator that compares a particular closing price of a stock to a range of its prices over a certain period of time. The sensitivity of the oscillator to market movements is reducible by adjusting that time period or by taking a moving average of the result..')
+            st.markdown('- **Exponential Moving Average Window Size**: Similar to the moving average, but it gives more weight to recent prices. This makes it react more quickly to price changes.')
+            st.markdown('- **Stochastic Oscillator Window Size**: This is a momentum indicator that compares a particular closing price of a stock to a range of its prices over a certain period of time. The sensitivity of the oscillator to market movements is reducible by adjusting that time period or by taking a moving average of the result.')
 
 
      # Connect to the S3 bucket
@@ -458,9 +441,4 @@ def main():
 
 
 if __name__ == '__main__':
-    
-    
-    logging.info("Starting the application.")  # Debugging statement
-
-
     main()
