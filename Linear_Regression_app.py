@@ -111,7 +111,7 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
         model = LinearRegression()
 
 
-        # Adding MLflow to for MLOps
+        # Adding MLflow for MLOps
         with mlflow.start_run():
             mlflow.log_param("future_days", future_days)
             mlflow.log_param("test_size", test_size)
