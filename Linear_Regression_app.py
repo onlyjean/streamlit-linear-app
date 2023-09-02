@@ -142,10 +142,7 @@ def train_model(df, future_days, test_size, ma_window, ema_window, sto_window, o
 
         return model, X_train, X_test, y_train, y_test, X_predict
 
-        linear_model_predict_prediction = model.predict(X_predict)
-        linear_model_real_prediction = model.predict(np.array(df.drop(['Prediction'], 1)))
 
-        return model, X_train, X_test, y_train, y_test, linear_model_real_prediction, linear_model_predict_prediction
 
     except Exception as e:
         print(f"An error occurred: {e}")
